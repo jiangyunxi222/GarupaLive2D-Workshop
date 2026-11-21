@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "game": "Garupa",
-  "branch": "workshop/live2dviewerex",
+  "branch": "main",
   "publication": "partial",
   "characters": [
     "workshop/characters/Afterglow/上原绯玛丽/entry.json",
