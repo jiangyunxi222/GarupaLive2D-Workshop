@@ -1,0 +1,100 @@
+# Garupa 创意工坊角色
+
+共 47 个单角色 WPK。选择角色下方的下载链接，在 Live2DViewerEX 或 LuvPet 中导入。
+
+## Afterglow
+
+| 封面 | 角色 | WPK |
+| --- | --- | --- |
+| <img src="characters/Afterglow/%E4%B8%8A%E5%8E%9F%E7%BB%AF%E7%8E%9B%E4%B8%BD/cover.png" alt="上原绯玛丽" width="112"> | [上原绯玛丽](characters/Afterglow/%E4%B8%8A%E5%8E%9F%E7%BB%AF%E7%8E%9B%E4%B8%BD/entry.json)<br>109 套衣装 · 30 条语音 | [下载 WPK](https://github.com/jiangyunxi222/GarupaLive2D-Workshop/releases/download/v1.0.0/garupa_0ea9b275da867110_Workshop.wpk)<br>206.7 MiB |
+| <img src="characters/Afterglow/%E5%AE%87%E7%94%B0%E5%B7%9D%E5%B7%B4/cover.png" alt="宇田川巴" width="112"> | [宇田川巴](characters/Afterglow/%E5%AE%87%E7%94%B0%E5%B7%9D%E5%B7%B4/entry.json)<br>113 套衣装 · 30 条语音 | [下载 WPK](https://github.com/jiangyunxi222/GarupaLive2D-Workshop/releases/download/v1.0.0/garupa_0c62f64a2e4c8752_Workshop.wpk)<br>196.0 MiB |
+| <img src="characters/Afterglow/%E7%BE%8E%E7%AB%B9%E5%85%B0/cover.png" alt="美竹兰" width="112"> | [美竹兰](characters/Afterglow/%E7%BE%8E%E7%AB%B9%E5%85%B0/entry.json)<br>111 套衣装 · 30 条语音 | [下载 WPK](https://github.com/jiangyunxi222/GarupaLive2D-Workshop/releases/download/v1.0.0/garupa_6c8489614787bb38_Workshop.wpk)<br>196.2 MiB |
+| <img src="characters/Afterglow/%E7%BE%BD%E6%B3%BD%E9%B8%AB/cover.png" alt="羽泽鸫" width="112"> | [羽泽鸫](characters/Afterglow/%E7%BE%BD%E6%B3%BD%E9%B8%AB/entry.json)<br>108 套衣装 · 30 条语音 | [下载 WPK](https://github.com/jiangyunxi222/GarupaLive2D-Workshop/releases/download/v1.0.0/garupa_f9a2f38a30aa4b66_Workshop.wpk)<br>179.1 MiB |
+| <img src="characters/Afterglow/%E9%9D%92%E5%8F%B6%E6%91%A9%E5%8D%A1/cover.png" alt="青叶摩卡" width="112"> | [青叶摩卡](characters/Afterglow/%E9%9D%92%E5%8F%B6%E6%91%A9%E5%8D%A1/entry.json)<br>104 套衣装 · 30 条语音 | [下载 WPK](https://github.com/jiangyunxi222/GarupaLive2D-Workshop/releases/download/v1.0.0/garupa_a947f9a42248a92e_Workshop.wpk)<br>190.1 MiB |
+
+## Ave Mujica
+
+| 封面 | 角色 | WPK |
+| --- | --- | --- |
+| <img src="characters/Ave%20Mujica/%E4%B8%89%E8%A7%92%E5%88%9D%E5%8D%8E/cover.png" alt="三角初华" width="112"> | [三角初华](characters/Ave%20Mujica/%E4%B8%89%E8%A7%92%E5%88%9D%E5%8D%8E/entry.json)<br>6 套衣装 · 30 条语音 | [下载 WPK](https://github.com/jiangyunxi222/GarupaLive2D-Workshop/releases/download/v1.0.0/garupa_e65e698d9de39c75_Workshop.wpk)<br>22.1 MiB |
+| <img src="characters/Ave%20Mujica/%E4%B8%B0%E5%B7%9D%E7%A5%A5%E5%AD%90/cover.png" alt="丰川祥子" width="112"> | [丰川祥子](characters/Ave%20Mujica/%E4%B8%B0%E5%B7%9D%E7%A5%A5%E5%AD%90/entry.json)<br>5 套衣装 · 30 条语音 | [下载 WPK](https://github.com/jiangyunxi222/GarupaLive2D-Workshop/releases/download/v1.0.0/garupa_e1f1075db0691ebb_Workshop.wpk)<br>24.1 MiB |
+| <img src="characters/Ave%20Mujica/%E5%85%AB%E5%B9%A1%E6%B5%B7%E9%93%83/cover.png" alt="八幡海铃" width="112"> | [八幡海铃](characters/Ave%20Mujica/%E5%85%AB%E5%B9%A1%E6%B5%B7%E9%93%83/entry.json)<br>4 套衣装 · 30 条语音 | [下载 WPK](https://github.com/jiangyunxi222/GarupaLive2D-Workshop/releases/download/v1.0.0/garupa_7b817e958fd90197_Workshop.wpk)<br>19.3 MiB |
+| <img src="characters/Ave%20Mujica/%E7%A5%90%E5%A4%A9%E5%AF%BA%E8%8B%A5%E9%BA%A6/cover.png" alt="祐天寺若麦" width="112"> | [祐天寺若麦](characters/Ave%20Mujica/%E7%A5%90%E5%A4%A9%E5%AF%BA%E8%8B%A5%E9%BA%A6/entry.json)<br>2 套衣装 · 30 条语音 | [下载 WPK](https://github.com/jiangyunxi222/GarupaLive2D-Workshop/releases/download/v1.0.0/garupa_061ef2288023c93e_Workshop.wpk)<br>18.4 MiB |
+| <img src="characters/Ave%20Mujica/%E8%8B%A5%E5%8F%B6%E7%9D%A6/cover.png" alt="若叶睦" width="112"> | [若叶睦](characters/Ave%20Mujica/%E8%8B%A5%E5%8F%B6%E7%9D%A6/entry.json)<br>4 套衣装 · 30 条语音 | [下载 WPK](https://github.com/jiangyunxi222/GarupaLive2D-Workshop/releases/download/v1.0.0/garupa_e3e866824c3ccfdc_Workshop.wpk)<br>18.5 MiB |
+
+## Hello, Happy World!
+
+| 封面 | 角色 | WPK |
+| --- | --- | --- |
+| <img src="characters/Hello%2C%20Happy%20World%21/%E5%8C%97%E6%B3%BD%E8%82%B2%E7%BE%8E/cover.png" alt="北泽育美" width="112"> | [北泽育美](characters/Hello%2C%20Happy%20World%21/%E5%8C%97%E6%B3%BD%E8%82%B2%E7%BE%8E/entry.json)<br>106 套衣装 · 30 条语音 | [下载 WPK](https://github.com/jiangyunxi222/GarupaLive2D-Workshop/releases/download/v1.0.0/garupa_a5c3deab3a1f805d_Workshop.wpk)<br>188.3 MiB |
+| <img src="characters/Hello%2C%20Happy%20World%21/%E5%A5%A5%E6%B3%BD%E7%BE%8E%E5%92%B2/cover.png" alt="奥泽美咲" width="112"> | [奥泽美咲](characters/Hello%2C%20Happy%20World%21/%E5%A5%A5%E6%B3%BD%E7%BE%8E%E5%92%B2/entry.json)<br>120 套衣装 · 30 条语音 | [下载 WPK](https://github.com/jiangyunxi222/GarupaLive2D-Workshop/releases/download/v1.0.0/garupa_1b300ed356e55b4b_Workshop.wpk)<br>158.7 MiB |
+| <img src="characters/Hello%2C%20Happy%20World%21/%E5%BC%A6%E5%8D%B7%E5%BF%83/cover.png" alt="弦卷心" width="112"> | [弦卷心](characters/Hello%2C%20Happy%20World%21/%E5%BC%A6%E5%8D%B7%E5%BF%83/entry.json)<br>115 套衣装 · 30 条语音 | [下载 WPK](https://github.com/jiangyunxi222/GarupaLive2D-Workshop/releases/download/v1.0.0/garupa_a39318439fc3115f_Workshop.wpk)<br>212.1 MiB |
+| <img src="characters/Hello%2C%20Happy%20World%21/%E6%9D%BE%E5%8E%9F%E8%8A%B1%E9%9F%B3/cover.png" alt="松原花音" width="112"> | [松原花音](characters/Hello%2C%20Happy%20World%21/%E6%9D%BE%E5%8E%9F%E8%8A%B1%E9%9F%B3/entry.json)<br>105 套衣装 · 30 条语音 | [下载 WPK](https://github.com/jiangyunxi222/GarupaLive2D-Workshop/releases/download/v1.0.0/garupa_dd087a80c9c49f0e_Workshop.wpk)<br>204.0 MiB |
+| <img src="characters/Hello%2C%20Happy%20World%21/%E6%BF%91%E7%94%B0%E8%96%B0/cover.png" alt="濑田薰" width="112"> | [濑田薰](characters/Hello%2C%20Happy%20World%21/%E6%BF%91%E7%94%B0%E8%96%B0/entry.json)<br>112 套衣装 · 30 条语音 | [下载 WPK](https://github.com/jiangyunxi222/GarupaLive2D-Workshop/releases/download/v1.0.0/garupa_c5b1bc45e706f587_Workshop.wpk)<br>201.3 MiB |
+
+## Morfonica
+
+| 封面 | 角色 | WPK |
+| --- | --- | --- |
+| <img src="characters/Morfonica/%E4%BA%8C%E5%8F%B6%E7%AD%91%E7%B4%AB/cover.png" alt="二叶筑紫" width="112"> | [二叶筑紫](characters/Morfonica/%E4%BA%8C%E5%8F%B6%E7%AD%91%E7%B4%AB/entry.json)<br>63 套衣装 · 30 条语音 | [下载 WPK](https://github.com/jiangyunxi222/GarupaLive2D-Workshop/releases/download/v1.0.0/garupa_deedaa09e5e0cb9c_Workshop.wpk)<br>127.3 MiB |
+| <img src="characters/Morfonica/%E4%BB%93%E7%94%B0%E7%9C%9F%E7%99%BD/cover.png" alt="仓田真白" width="112"> | [仓田真白](characters/Morfonica/%E4%BB%93%E7%94%B0%E7%9C%9F%E7%99%BD/entry.json)<br>73 套衣装 · 30 条语音 | [下载 WPK](https://github.com/jiangyunxi222/GarupaLive2D-Workshop/releases/download/v1.0.0/garupa_1d9b3daf0b6c0914_Workshop.wpk)<br>151.6 MiB |
+| <img src="characters/Morfonica/%E5%85%AB%E6%BD%AE%E7%91%A0%E5%94%AF/cover.png" alt="八潮瑠唯" width="112"> | [八潮瑠唯](characters/Morfonica/%E5%85%AB%E6%BD%AE%E7%91%A0%E5%94%AF/entry.json)<br>60 套衣装 · 30 条语音 | [下载 WPK](https://github.com/jiangyunxi222/GarupaLive2D-Workshop/releases/download/v1.0.0/garupa_213e21bd1da9e938_Workshop.wpk)<br>115.1 MiB |
+| <img src="characters/Morfonica/%E5%B9%BF%E7%94%BA%E4%B8%83%E6%B7%B1/cover.png" alt="广町七深" width="112"> | [广町七深](characters/Morfonica/%E5%B9%BF%E7%94%BA%E4%B8%83%E6%B7%B1/entry.json)<br>64 套衣装 · 30 条语音 | [下载 WPK](https://github.com/jiangyunxi222/GarupaLive2D-Workshop/releases/download/v1.0.0/garupa_62480e409109bf8b_Workshop.wpk)<br>139.2 MiB |
+| <img src="characters/Morfonica/%E6%A1%90%E8%B0%B7%E9%80%8F%E5%AD%90/cover.png" alt="桐谷透子" width="112"> | [桐谷透子](characters/Morfonica/%E6%A1%90%E8%B0%B7%E9%80%8F%E5%AD%90/entry.json)<br>65 套衣装 · 30 条语音 | [下载 WPK](https://github.com/jiangyunxi222/GarupaLive2D-Workshop/releases/download/v1.0.0/garupa_c175e63a9bc47206_Workshop.wpk)<br>133.2 MiB |
+
+## MyGO!!!!!
+
+| 封面 | 角色 | WPK |
+| --- | --- | --- |
+| <img src="characters/MyGO%21%21%21%21%21/%E5%8D%83%E6%97%A9%E7%88%B1%E9%9F%B3/cover.png" alt="千早爱音" width="112"> | [千早爱音](characters/MyGO%21%21%21%21%21/%E5%8D%83%E6%97%A9%E7%88%B1%E9%9F%B3/entry.json)<br>17 套衣装 · 30 条语音 | [下载 WPK](https://github.com/jiangyunxi222/GarupaLive2D-Workshop/releases/download/v1.0.0/garupa_3bcc4948caf2953f_Workshop.wpk)<br>46.9 MiB |
+| <img src="characters/MyGO%21%21%21%21%21/%E6%A4%8E%E5%90%8D%E7%AB%8B%E5%B8%8C/cover.png" alt="椎名立希" width="112"> | [椎名立希](characters/MyGO%21%21%21%21%21/%E6%A4%8E%E5%90%8D%E7%AB%8B%E5%B8%8C/entry.json)<br>18 套衣装 · 30 条语音 | [下载 WPK](https://github.com/jiangyunxi222/GarupaLive2D-Workshop/releases/download/v1.0.0/garupa_b177498539627a55_Workshop.wpk)<br>46.2 MiB |
+| <img src="characters/MyGO%21%21%21%21%21/%E8%A6%81%E4%B9%90%E5%A5%88/cover.png" alt="要乐奈" width="112"> | [要乐奈](characters/MyGO%21%21%21%21%21/%E8%A6%81%E4%B9%90%E5%A5%88/entry.json)<br>16 套衣装 · 30 条语音 | [下载 WPK](https://github.com/jiangyunxi222/GarupaLive2D-Workshop/releases/download/v1.0.0/garupa_e57270c4e7edc7d5_Workshop.wpk)<br>33.7 MiB |
+| <img src="characters/MyGO%21%21%21%21%21/%E9%95%BF%E5%B4%8E%E7%88%BD%E4%B8%96/cover.png" alt="长崎爽世" width="112"> | [长崎爽世](characters/MyGO%21%21%21%21%21/%E9%95%BF%E5%B4%8E%E7%88%BD%E4%B8%96/entry.json)<br>15 套衣装 · 30 条语音 | [下载 WPK](https://github.com/jiangyunxi222/GarupaLive2D-Workshop/releases/download/v1.0.0/garupa_327af9b62e8abd26_Workshop.wpk)<br>43.0 MiB |
+| <img src="characters/MyGO%21%21%21%21%21/%E9%AB%98%E6%9D%BE%E7%81%AF/cover.png" alt="高松灯" width="112"> | [高松灯](characters/MyGO%21%21%21%21%21/%E9%AB%98%E6%9D%BE%E7%81%AF/entry.json)<br>18 套衣装 · 30 条语音 | [下载 WPK](https://github.com/jiangyunxi222/GarupaLive2D-Workshop/releases/download/v1.0.0/garupa_b1a4e15046624f2a_Workshop.wpk)<br>50.8 MiB |
+
+## Pastel＊Palettes
+
+| 封面 | 角色 | WPK |
+| --- | --- | --- |
+| <img src="characters/Pastel%EF%BC%8APalettes/%E4%B8%B8%E5%B1%B1%E5%BD%A9/cover.png" alt="丸山彩" width="112"> | [丸山彩](characters/Pastel%EF%BC%8APalettes/%E4%B8%B8%E5%B1%B1%E5%BD%A9/entry.json)<br>120 套衣装 · 30 条语音 | [下载 WPK](https://github.com/jiangyunxi222/GarupaLive2D-Workshop/releases/download/v1.0.0/garupa_3252d97f73b91b0f_Workshop.wpk)<br>234.6 MiB |
+| <img src="characters/Pastel%EF%BC%8APalettes/%E5%86%B0%E5%B7%9D%E6%97%A5%E8%8F%9C/cover.png" alt="冰川日菜" width="112"> | [冰川日菜](characters/Pastel%EF%BC%8APalettes/%E5%86%B0%E5%B7%9D%E6%97%A5%E8%8F%9C/entry.json)<br>112 套衣装 · 30 条语音 | [下载 WPK](https://github.com/jiangyunxi222/GarupaLive2D-Workshop/releases/download/v1.0.0/garupa_474574d355da4900_Workshop.wpk)<br>223.5 MiB |
+| <img src="characters/Pastel%EF%BC%8APalettes/%E5%A4%A7%E5%92%8C%E9%BA%BB%E5%BC%A5/cover.png" alt="大和麻弥" width="112"> | [大和麻弥](characters/Pastel%EF%BC%8APalettes/%E5%A4%A7%E5%92%8C%E9%BA%BB%E5%BC%A5/entry.json)<br>103 套衣装 · 30 条语音 | [下载 WPK](https://github.com/jiangyunxi222/GarupaLive2D-Workshop/releases/download/v1.0.0/garupa_a009e15044cf4b51_Workshop.wpk)<br>192.7 MiB |
+| <img src="characters/Pastel%EF%BC%8APalettes/%E7%99%BD%E9%B9%AD%E5%8D%83%E5%9C%A3/cover.png" alt="白鹭千圣" width="112"> | [白鹭千圣](characters/Pastel%EF%BC%8APalettes/%E7%99%BD%E9%B9%AD%E5%8D%83%E5%9C%A3/entry.json)<br>104 套衣装 · 30 条语音 | [下载 WPK](https://github.com/jiangyunxi222/GarupaLive2D-Workshop/releases/download/v1.0.0/garupa_12aed2757380cd43_Workshop.wpk)<br>217.4 MiB |
+| <img src="characters/Pastel%EF%BC%8APalettes/%E8%8B%A5%E5%AE%AB%E4%BC%8A%E8%8A%99/cover.png" alt="若宫伊芙" width="112"> | [若宫伊芙](characters/Pastel%EF%BC%8APalettes/%E8%8B%A5%E5%AE%AB%E4%BC%8A%E8%8A%99/entry.json)<br>110 套衣装 · 30 条语音 | [下载 WPK](https://github.com/jiangyunxi222/GarupaLive2D-Workshop/releases/download/v1.0.0/garupa_4751015092d85cf0_Workshop.wpk)<br>213.5 MiB |
+
+## Poppin'Party
+
+| 封面 | 角色 | WPK |
+| --- | --- | --- |
+| <img src="characters/Poppin%27Party/%E5%B1%B1%E5%90%B9%E6%B2%99%E7%BB%AB/cover.png" alt="山吹沙绫" width="112"> | [山吹沙绫](characters/Poppin%27Party/%E5%B1%B1%E5%90%B9%E6%B2%99%E7%BB%AB/entry.json)<br>102 套衣装 · 30 条语音 | [下载 WPK](https://github.com/jiangyunxi222/GarupaLive2D-Workshop/releases/download/v1.0.0/garupa_290753f4339b8433_Workshop.wpk)<br>187.8 MiB |
+| <img src="characters/Poppin%27Party/%E5%B8%82%E8%B0%B7%E6%9C%89%E5%92%B2/cover.png" alt="市谷有咲" width="112"> | [市谷有咲](characters/Poppin%27Party/%E5%B8%82%E8%B0%B7%E6%9C%89%E5%92%B2/entry.json)<br>114 套衣装 · 30 条语音 | [下载 WPK](https://github.com/jiangyunxi222/GarupaLive2D-Workshop/releases/download/v1.0.0/garupa_92e3db051762db4f_Workshop.wpk)<br>215.2 MiB |
+| <img src="characters/Poppin%27Party/%E6%88%B7%E5%B1%B1%E9%A6%99%E6%BE%84/cover.png" alt="户山香澄" width="112"> | [户山香澄](characters/Poppin%27Party/%E6%88%B7%E5%B1%B1%E9%A6%99%E6%BE%84/entry.json)<br>121 套衣装 · 30 条语音 | [下载 WPK](https://github.com/jiangyunxi222/GarupaLive2D-Workshop/releases/download/v1.0.0/garupa_1a99da0636bf6df5_Workshop.wpk)<br>230.9 MiB |
+| <img src="characters/Poppin%27Party/%E7%89%9B%E8%BE%BC%E9%87%8C%E7%BE%8E/cover.png" alt="牛込里美" width="112"> | [牛込里美](characters/Poppin%27Party/%E7%89%9B%E8%BE%BC%E9%87%8C%E7%BE%8E/entry.json)<br>101 套衣装 · 30 条语音 | [下载 WPK](https://github.com/jiangyunxi222/GarupaLive2D-Workshop/releases/download/v1.0.0/garupa_146dbe912f8d108b_Workshop.wpk)<br>169.3 MiB |
+| <img src="characters/Poppin%27Party/%E8%8A%B1%E5%9B%AD%E5%A4%9A%E6%83%A0/cover.png" alt="花园多惠" width="112"> | [花园多惠](characters/Poppin%27Party/%E8%8A%B1%E5%9B%AD%E5%A4%9A%E6%83%A0/entry.json)<br>104 套衣装 · 30 条语音 | [下载 WPK](https://github.com/jiangyunxi222/GarupaLive2D-Workshop/releases/download/v1.0.0/garupa_aedb9cbd8430d8a8_Workshop.wpk)<br>182.9 MiB |
+
+## RAISE A SUILEN
+
+| 封面 | 角色 | WPK |
+| --- | --- | --- |
+| <img src="characters/RAISE%20A%20SUILEN/%E4%BD%90%E8%97%A4%E7%9B%8A%E6%9C%A8%EF%BC%88MASKING%EF%BC%89/cover.png" alt="佐藤益木（MASKING）" width="112"> | [佐藤益木（MASKING）](characters/RAISE%20A%20SUILEN/%E4%BD%90%E8%97%A4%E7%9B%8A%E6%9C%A8%EF%BC%88MASKING%EF%BC%89/entry.json)<br>53 套衣装 · 30 条语音 | [下载 WPK](https://github.com/jiangyunxi222/GarupaLive2D-Workshop/releases/download/v1.0.0/garupa_666fa54bd3b7da00_Workshop.wpk)<br>98.9 MiB |
+| <img src="characters/RAISE%20A%20SUILEN/%E5%92%8C%E5%A5%8F%E7%91%9E%E4%BE%9D%EF%BC%88LAYER%EF%BC%89/cover.png" alt="和奏瑞依（LAYER）" width="112"> | [和奏瑞依（LAYER）](characters/RAISE%20A%20SUILEN/%E5%92%8C%E5%A5%8F%E7%91%9E%E4%BE%9D%EF%BC%88LAYER%EF%BC%89/entry.json)<br>54 套衣装 · 30 条语音 | [下载 WPK](https://github.com/jiangyunxi222/GarupaLive2D-Workshop/releases/download/v1.0.0/garupa_9fccb96c6d6d4695_Workshop.wpk)<br>103.9 MiB |
+| <img src="characters/RAISE%20A%20SUILEN/%E6%9C%9D%E6%97%A5%E5%85%AD%E8%8A%B1%EF%BC%88LOCK%EF%BC%89/cover.png" alt="朝日六花（LOCK）" width="112"> | [朝日六花（LOCK）](characters/RAISE%20A%20SUILEN/%E6%9C%9D%E6%97%A5%E5%85%AD%E8%8A%B1%EF%BC%88LOCK%EF%BC%89/entry.json)<br>63 套衣装 · 30 条语音 | [下载 WPK](https://github.com/jiangyunxi222/GarupaLive2D-Workshop/releases/download/v1.0.0/garupa_2fbf1989de105adb_Workshop.wpk)<br>120.3 MiB |
+| <img src="characters/RAISE%20A%20SUILEN/%E7%8F%A0%E6%89%8B%E7%9F%A5%E7%94%B1%EF%BC%88CHU%C2%B2%EF%BC%89/cover.png" alt="珠手知由（CHU²）" width="112"> | [珠手知由（CHU²）](characters/RAISE%20A%20SUILEN/%E7%8F%A0%E6%89%8B%E7%9F%A5%E7%94%B1%EF%BC%88CHU%C2%B2%EF%BC%89/entry.json)<br>52 套衣装 · 30 条语音 | [下载 WPK](https://github.com/jiangyunxi222/GarupaLive2D-Workshop/releases/download/v1.0.0/garupa_a3afc2f15a996d83_Workshop.wpk)<br>134.9 MiB |
+| <img src="characters/RAISE%20A%20SUILEN/%E9%B3%B0%E5%8E%9F%E4%BB%A4%E7%8E%8B%E9%82%A3%EF%BC%88PAREO%EF%BC%89/cover.png" alt="鳰原令王那（PAREO）" width="112"> | [鳰原令王那（PAREO）](characters/RAISE%20A%20SUILEN/%E9%B3%B0%E5%8E%9F%E4%BB%A4%E7%8E%8B%E9%82%A3%EF%BC%88PAREO%EF%BC%89/entry.json)<br>50 套衣装 · 30 条语音 | [下载 WPK](https://github.com/jiangyunxi222/GarupaLive2D-Workshop/releases/download/v1.0.0/garupa_9843b885794c4d80_Workshop.wpk)<br>120.4 MiB |
+
+## Roselia
+
+| 封面 | 角色 | WPK |
+| --- | --- | --- |
+| <img src="characters/Roselia/%E4%BB%8A%E4%BA%95%E8%8E%89%E8%8E%8E/cover.png" alt="今井莉莎" width="112"> | [今井莉莎](characters/Roselia/%E4%BB%8A%E4%BA%95%E8%8E%89%E8%8E%8E/entry.json)<br>108 套衣装 · 30 条语音 | [下载 WPK](https://github.com/jiangyunxi222/GarupaLive2D-Workshop/releases/download/v1.0.0/garupa_d90c90684ff07f85_Workshop.wpk)<br>224.8 MiB |
+| <img src="characters/Roselia/%E5%86%B0%E5%B7%9D%E7%BA%B1%E5%A4%9C/cover.png" alt="冰川纱夜" width="112"> | [冰川纱夜](characters/Roselia/%E5%86%B0%E5%B7%9D%E7%BA%B1%E5%A4%9C/entry.json)<br>105 套衣装 · 30 条语音 | [下载 WPK](https://github.com/jiangyunxi222/GarupaLive2D-Workshop/releases/download/v1.0.0/garupa_5292e4bdfba7a07b_Workshop.wpk)<br>212.9 MiB |
+| <img src="characters/Roselia/%E5%87%91%E5%8F%8B%E5%B8%8C%E9%82%A3/cover.png" alt="凑友希那" width="112"> | [凑友希那](characters/Roselia/%E5%87%91%E5%8F%8B%E5%B8%8C%E9%82%A3/entry.json)<br>105 套衣装 · 30 条语音 | [下载 WPK](https://github.com/jiangyunxi222/GarupaLive2D-Workshop/releases/download/v1.0.0/garupa_a4e44750b7ee47b0_Workshop.wpk)<br>206.1 MiB |
+| <img src="characters/Roselia/%E5%AE%87%E7%94%B0%E5%B7%9D%E4%BA%9A%E5%AD%90/cover.png" alt="宇田川亚子" width="112"> | [宇田川亚子](characters/Roselia/%E5%AE%87%E7%94%B0%E5%B7%9D%E4%BA%9A%E5%AD%90/entry.json)<br>108 套衣装 · 30 条语音 | [下载 WPK](https://github.com/jiangyunxi222/GarupaLive2D-Workshop/releases/download/v1.0.0/garupa_9db8640666e06a24_Workshop.wpk)<br>205.1 MiB |
+| <img src="characters/Roselia/%E7%99%BD%E9%87%91%E7%87%90%E5%AD%90/cover.png" alt="白金燐子" width="112"> | [白金燐子](characters/Roselia/%E7%99%BD%E9%87%91%E7%87%90%E5%AD%90/entry.json)<br>103 套衣装 · 30 条语音 | [下载 WPK](https://github.com/jiangyunxi222/GarupaLive2D-Workshop/releases/download/v1.0.0/garupa_fae10333b669fd15_Workshop.wpk)<br>192.6 MiB |
+
+## 其他角色
+
+| 封面 | 角色 | WPK |
+| --- | --- | --- |
+| <img src="characters/%E5%85%B6%E4%BB%96%E8%A7%92%E8%89%B2/%E6%88%B7%E5%B1%B1%E6%98%8E%E6%97%A5%E9%A6%99/cover.png" alt="户山明日香" width="112"> | [户山明日香](characters/%E5%85%B6%E4%BB%96%E8%A7%92%E8%89%B2/%E6%88%B7%E5%B1%B1%E6%98%8E%E6%97%A5%E9%A6%99/entry.json)<br>12 套衣装 · 30 条语音 | [下载 WPK](https://github.com/jiangyunxi222/GarupaLive2D-Workshop/releases/download/v1.0.0/garupa_4b1cae58f1ba3c5f_Workshop.wpk)<br>26.3 MiB |
+| <img src="characters/%E5%85%B6%E4%BB%96%E8%A7%92%E8%89%B2/%E7%BA%AF%E7%94%B0%E7%9C%9F%E5%A5%88/cover.png" alt="纯田真奈" width="112"> | [纯田真奈](characters/%E5%85%B6%E4%BB%96%E8%A7%92%E8%89%B2/%E7%BA%AF%E7%94%B0%E7%9C%9F%E5%A5%88/entry.json)<br>1 套衣装 · 15 条语音 | [下载 WPK](https://github.com/jiangyunxi222/GarupaLive2D-Workshop/releases/download/v1.0.0/garupa_26f12d3c23cc3a7d_Workshop.wpk)<br>6.3 MiB |
