@@ -1,0 +1,93 @@
+{
+  "version": "Sample 1.0.0",
+  "model": "assets/983673f83633574c8688df31.moc",
+  "textures": [
+    "assets/f2ac6d5ff844c531ba488432.png"
+  ],
+  "motions": {
+    "idle": [
+      {
+        "name": "待机",
+        "file": "assets/896a9d023712e07246429541.mtn"
+      }
+    ],
+    "tap": [
+      {
+        "name": "待机01",
+        "file": "assets/896a9d023712e07246429541.mtn",
+        "priority": 3
+      },
+      {
+        "name": "待机02",
+        "file": "assets/5c1cc3d5789bb8d43b77bcad.mtn",
+        "priority": 3
+      },
+      {
+        "name": "动作01",
+        "file": "assets/9fc2bd7cb4019f249e2fcd4a.mtn",
+        "priority": 3
+      },
+      {
+        "name": "动作02",
+        "file": "assets/bbb790b076324902c558611c.mtn",
+        "priority": 3
+      },
+      {
+        "name": "动作03",
+        "file": "assets/8a13d1c1b94ba6307bd56a23.mtn",
+        "priority": 3
+      }
+    ],
+    "tap_face": [
+      {
+        "name": "切换表情",
+        "command": "next_exp"
+      }
+    ]
+  },
+  "physics": "assets/926a670eba68fff2ebb56bde.physics.json",
+  "expressions": [
+    {
+      "name": "默认",
+      "file": "assets/25686d389e8e6d716ca28cf7.exp.json"
+    },
+    {
+      "name": "表情01",
+      "file": "assets/25686d389e8e6d716ca28cf7.exp.json"
+    },
+    {
+      "name": "表情02",
+      "file": "assets/485502cedd9605807350dbf7.exp.json"
+    },
+    {
+      "name": "表情03",
+      "file": "assets/04783efcb1f5c4494738485c.exp.json"
+    },
+    {
+      "name": "表情04",
+      "file": "assets/1aed5cb9c42b0a70bde89592.exp.json"
+    },
+    {
+      "name": "表情05",
+      "file": "assets/1266f5237b837b20853eba47.exp.json"
+    }
+  ],
+  "options": {
+    "id": "garupa_22f73b335e0f5ec7_0",
+    "tex_fixed": true
+  },
+  "hit_areas": [
+    {
+      "name": "表情",
+      "id": "D_PSD.53",
+      "motion": "tap_face",
+      "order": 30
+    },
+    {
+      "name": "动作",
+      "id": "D_PSD.61",
+      "motion": "tap",
+      "order": 20
+    }
+  ]
+}

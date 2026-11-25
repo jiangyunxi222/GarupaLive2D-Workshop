@@ -1,0 +1,28 @@
+{
+  "id": "8a5d8fcdb8b362c9",
+  "name": "友希那的父亲",
+  "game": "Garupa",
+  "group": "其他角色",
+  "model": "其他角色/友希那的父亲（Garupa）/00_integrated.model.json",
+  "resourceManifest": "其他角色/友希那的父亲（Garupa）/manifest.json",
+  "sourceLock": "其他角色/友希那的父亲（Garupa）/source-lock.json",
+  "voiceCatalog": "workshop/characters/其他角色/友希那的父亲/resources.json",
+  "metadata": "workshop/characters/其他角色/友希那的父亲/metadata.json",
+  "preview": "workshop/characters/其他角色/友希那的父亲/cover.png",
+  "coverCostume": 1,
+  "coverSha256": "041c1d92212c99de78fb1c7d66e013cd34a20b252f8ae15739b419fbcee8ab5b",
+  "counts": {
+    "costumes": 1,
+    "voices": 0,
+    "actions": 12,
+    "expressions": 1
+  },
+  "release": {
+    "state": "draft",
+    "workshopId": null,
+    "nativeMenu": "source-controls",
+    "wpkVerification": "archive-verified",
+    "genderTagReview": false,
+    "codeAudit": "passed"
+  }
+}

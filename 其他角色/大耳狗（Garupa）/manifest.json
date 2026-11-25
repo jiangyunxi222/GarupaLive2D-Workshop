@@ -1,0 +1,23 @@
+{
+  "game": "Garupa",
+  "group": "其他角色",
+  "character": "大耳狗",
+  "entry": "00_integrated.model.json",
+  "files_sha256": {
+    "assets/10922c8615a0bb8bfb058f04.moc": "10922c8615a0bb8bfb058f044809edab17a72053aa57dd0b71734b669bf0eac7",
+    "assets/1b28971119fc0d4021ea2928.png": "1b28971119fc0d4021ea292833cb22e00585d896df215a63501bd56a8f262b63",
+    "assets/926a670eba68fff2ebb56bde.physics.json": "926a670eba68fff2ebb56bde641b3052be637077b9f41e7ec61c940025ec75e0",
+    "assets/c8ab73d36d804870d639298a.mtn": "c8ab73d36d804870d639298a835b1e63c3c4ac4eca80035ebc9c4b8d2019debe",
+    "assets/4e0c003f4a7bf98ccbff8dce.mtn": "4e0c003f4a7bf98ccbff8dce01cb9c7993973e90e0399745689b90ec352cf078",
+    "assets/d67813d492525c5df813bf6b.mtn": "d67813d492525c5df813bf6baa7ad815644f2249f1cc602932a9ba953f2231a2",
+    "assets/a7d8d81d01caacc1a9cea9a2.mtn": "a7d8d81d01caacc1a9cea9a24dd85dc4852420c41ba8444709fe89ad43bdf23f",
+    "assets/257eab53f9a85c3a8c4e115e.mtn": "257eab53f9a85c3a8c4e115eb9016a004b481d39781a74b0ab06e7173b48abf0",
+    "assets/25686d389e8e6d716ca28cf7.exp.json": "25686d389e8e6d716ca28cf759fb469a410e8c541efe81ac7bf3875c86dc4c7c",
+    "assets/485502cedd9605807350dbf7.exp.json": "485502cedd9605807350dbf7ea1c7c09084d73a25f1c08de4b132e47c3b7f440",
+    "assets/04783efcb1f5c4494738485c.exp.json": "04783efcb1f5c4494738485c90c4dc261183ec42ff6da2dc0555e7bac4937b63",
+    "assets/1aed5cb9c42b0a70bde89592.exp.json": "1aed5cb9c42b0a70bde89592c425dc687374ac04cb549afd20d1e78167da0326",
+    "assets/1266f5237b837b20853eba47.exp.json": "1266f5237b837b20853eba47861291d068e3b1ab63f511cfbf7b330dcb3f1f7b",
+    "assets/7739a5b459c398fb1ef633b3.exp.json": "7739a5b459c398fb1ef633b3ece5a919257657dd9c5938d5f7b1f19ce2351959",
+    "00_integrated.model.json": "3d87df031f4d3fd6d395db663f4b3d4358918d1c2c33b74c475eaf67534a374d"
+  }
+}

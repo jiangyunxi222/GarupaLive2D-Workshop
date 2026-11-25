@@ -1,0 +1,22 @@
+{
+  "game": "Garupa",
+  "group": "其他角色",
+  "character": "凯蒂猫",
+  "entry": "00_integrated.model.json",
+  "files_sha256": {
+    "assets/2adaf48f2e01f9ca0c4a0df5.moc": "2adaf48f2e01f9ca0c4a0df5f9d937cc0dbdf0107b858f5ffdcbd4580c050672",
+    "assets/b894e47f1d64a098d4637a21.png": "b894e47f1d64a098d4637a215607adb682854cc095b78654385045e847a2f2d2",
+    "assets/926a670eba68fff2ebb56bde.physics.json": "926a670eba68fff2ebb56bde641b3052be637077b9f41e7ec61c940025ec75e0",
+    "assets/4b524166c3ceea8b45ef4340.mtn": "4b524166c3ceea8b45ef4340ed3cea46e5aa8dc8d0091d6bcc9206bc8159071b",
+    "assets/95396c51ae2ea08053f12cf1.mtn": "95396c51ae2ea08053f12cf1abe9beeaafcca40f1a6bf25248fa1af00b66c99c",
+    "assets/a3e6d8eb2640c93f2ddcbc73.mtn": "a3e6d8eb2640c93f2ddcbc737c355f5b550921b316b8261cbbcf4b5c887d7db4",
+    "assets/eeb3553692918a11f22e46d5.mtn": "eeb3553692918a11f22e46d5111bbf30689d273b1a64409b474957c72b39182a",
+    "assets/d8263ea3ef5549afdf0a7f65.mtn": "d8263ea3ef5549afdf0a7f65e501e63c70b4d2094cce0110b619371e7f6421b2",
+    "assets/25686d389e8e6d716ca28cf7.exp.json": "25686d389e8e6d716ca28cf759fb469a410e8c541efe81ac7bf3875c86dc4c7c",
+    "assets/485502cedd9605807350dbf7.exp.json": "485502cedd9605807350dbf7ea1c7c09084d73a25f1c08de4b132e47c3b7f440",
+    "assets/04783efcb1f5c4494738485c.exp.json": "04783efcb1f5c4494738485c90c4dc261183ec42ff6da2dc0555e7bac4937b63",
+    "assets/1aed5cb9c42b0a70bde89592.exp.json": "1aed5cb9c42b0a70bde89592c425dc687374ac04cb549afd20d1e78167da0326",
+    "assets/1266f5237b837b20853eba47.exp.json": "1266f5237b837b20853eba47861291d068e3b1ab63f511cfbf7b330dcb3f1f7b",
+    "00_integrated.model.json": "31a55280dafae6ec6a355b6637b9ba2e64ba1706b00ca3639a639968e39d09c3"
+  }
+}

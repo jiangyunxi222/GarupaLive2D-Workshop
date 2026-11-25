@@ -1,0 +1,22 @@
+{
+  "game": "Garupa",
+  "group": "其他角色",
+  "character": "酷企鹅",
+  "entry": "00_integrated.model.json",
+  "files_sha256": {
+    "assets/983673f83633574c8688df31.moc": "983673f83633574c8688df31fe93f9c030b866c3fb5e6ba582575ee2deac8507",
+    "assets/f2ac6d5ff844c531ba488432.png": "f2ac6d5ff844c531ba48843206ff5d19acd3def8cfb2347eba73ea441de1d7a6",
+    "assets/926a670eba68fff2ebb56bde.physics.json": "926a670eba68fff2ebb56bde641b3052be637077b9f41e7ec61c940025ec75e0",
+    "assets/896a9d023712e07246429541.mtn": "896a9d023712e0724642954162ffdf7c791731464ea4a1167e3cb7e06670334b",
+    "assets/5c1cc3d5789bb8d43b77bcad.mtn": "5c1cc3d5789bb8d43b77bcad5c6d1824e7c95040fd690ed59fb71daaea143167",
+    "assets/9fc2bd7cb4019f249e2fcd4a.mtn": "9fc2bd7cb4019f249e2fcd4ae679c52b632d9f56aa3d18ef7090649b5c079c0b",
+    "assets/bbb790b076324902c558611c.mtn": "bbb790b076324902c558611ce260097981960417e79cb68b54e59a2cad81c358",
+    "assets/8a13d1c1b94ba6307bd56a23.mtn": "8a13d1c1b94ba6307bd56a23173b41a49c759afbc057d9fdd0d180374ff2ecdb",
+    "assets/25686d389e8e6d716ca28cf7.exp.json": "25686d389e8e6d716ca28cf759fb469a410e8c541efe81ac7bf3875c86dc4c7c",
+    "assets/485502cedd9605807350dbf7.exp.json": "485502cedd9605807350dbf7ea1c7c09084d73a25f1c08de4b132e47c3b7f440",
+    "assets/04783efcb1f5c4494738485c.exp.json": "04783efcb1f5c4494738485c90c4dc261183ec42ff6da2dc0555e7bac4937b63",
+    "assets/1aed5cb9c42b0a70bde89592.exp.json": "1aed5cb9c42b0a70bde89592c425dc687374ac04cb549afd20d1e78167da0326",
+    "assets/1266f5237b837b20853eba47.exp.json": "1266f5237b837b20853eba47861291d068e3b1ab63f511cfbf7b330dcb3f1f7b",
+    "00_integrated.model.json": "d31a3fc6ebd8812af95ff2970a4757e37f6cce7b75faf915b2b7d38c98f7ce26"
+  }
+}

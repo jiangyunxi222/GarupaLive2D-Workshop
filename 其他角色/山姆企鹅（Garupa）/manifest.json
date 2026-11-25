@@ -1,0 +1,21 @@
+{
+  "game": "Garupa",
+  "group": "其他角色",
+  "character": "山姆企鹅",
+  "entry": "00_integrated.model.json",
+  "files_sha256": {
+    "assets/76239003e321b9e6023f28a2.moc": "76239003e321b9e6023f28a22fc1ee6f1b05eeac4b35ad9f2b9e4ee432ebd900",
+    "assets/e42c9a3014f673797e7dae95.png": "e42c9a3014f673797e7dae95aa7540e85078d22fe1a55d62573cadddad11b4ff",
+    "assets/926a670eba68fff2ebb56bde.physics.json": "926a670eba68fff2ebb56bde641b3052be637077b9f41e7ec61c940025ec75e0",
+    "assets/6e9265a14916387e33fcc77f.mtn": "6e9265a14916387e33fcc77f7df5d1ccb1589d0d3d0a1f4ead063aa88992bf38",
+    "assets/24580b5e649fc190cd97f492.mtn": "24580b5e649fc190cd97f492e40ffec8be80b0b003c3166f49d4bb7392ee3e03",
+    "assets/3bf0f5b34b23da120e06cf97.mtn": "3bf0f5b34b23da120e06cf97023a7509adcbb9a3bfa76fc246c3b6eb5ef5c75f",
+    "assets/2553e9b8ea5aa862f9e81d23.mtn": "2553e9b8ea5aa862f9e81d2348e3131ccf10de6dada14a3ca0a726e03593fe83",
+    "assets/5ae62f10ed2f736a07553efa.mtn": "5ae62f10ed2f736a07553efabe57d72ac42cba7c590c15e6e4db34a9cb5ac23e",
+    "assets/25686d389e8e6d716ca28cf7.exp.json": "25686d389e8e6d716ca28cf759fb469a410e8c541efe81ac7bf3875c86dc4c7c",
+    "assets/485502cedd9605807350dbf7.exp.json": "485502cedd9605807350dbf7ea1c7c09084d73a25f1c08de4b132e47c3b7f440",
+    "assets/04783efcb1f5c4494738485c.exp.json": "04783efcb1f5c4494738485c90c4dc261183ec42ff6da2dc0555e7bac4937b63",
+    "assets/1aed5cb9c42b0a70bde89592.exp.json": "1aed5cb9c42b0a70bde89592c425dc687374ac04cb549afd20d1e78167da0326",
+    "00_integrated.model.json": "b1bb93e3a96fa966d68e1dd39653e1b733d9146a21b2ba77f80b84812eca52d9"
+  }
+}

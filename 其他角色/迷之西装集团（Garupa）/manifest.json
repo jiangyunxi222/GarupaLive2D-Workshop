@@ -1,0 +1,14 @@
+{
+  "game": "Garupa",
+  "group": "其他角色",
+  "character": "迷之西装集团",
+  "entry": "00_integrated.model.json",
+  "files_sha256": {
+    "assets/71d3df4b23afdeb213e439bb.moc": "71d3df4b23afdeb213e439bbd9ca62cfb8141db823997bb10f2fad1fa17317a0",
+    "assets/25f8b861a000f7a532de5ea9.png": "25f8b861a000f7a532de5ea90bc6093fe0f7c3c61d99b65daf677ed1b13407d7",
+    "assets/53b30e5094fa65eb4aa61a4e.physics.json": "53b30e5094fa65eb4aa61a4e2965d7eb6ff86c019e13fcd76c8f18f8be7fab88",
+    "assets/f2d841da895c996af08b653b.mtn": "f2d841da895c996af08b653b47fe8092771ba2b7c3cdc63431501b6ca20d80e3",
+    "assets/8a16f6fbd18fcd34f19a14c3.exp.json": "8a16f6fbd18fcd34f19a14c3cc504fdf571b9238a99e5c53d1082d4abec020f2",
+    "00_integrated.model.json": "682739927a7e66824bd53a84e995c085e8e832f8e047a1040a1005c06482420b"
+  }
+}

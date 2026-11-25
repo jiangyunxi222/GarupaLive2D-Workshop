@@ -1,0 +1,28 @@
+{
+  "id": "9faeed8a5a7a54ba",
+  "name": "蛋黄哥",
+  "game": "Garupa",
+  "group": "其他角色",
+  "model": "其他角色/蛋黄哥（Garupa）/00_integrated.model.json",
+  "resourceManifest": "其他角色/蛋黄哥（Garupa）/manifest.json",
+  "sourceLock": "其他角色/蛋黄哥（Garupa）/source-lock.json",
+  "voiceCatalog": "workshop/characters/其他角色/蛋黄哥/resources.json",
+  "metadata": "workshop/characters/其他角色/蛋黄哥/metadata.json",
+  "preview": "workshop/characters/其他角色/蛋黄哥/cover.png",
+  "coverCostume": 1,
+  "coverSha256": "02d7a302f2e6259ce42bd655b2a2bd5ab3723c9cdbc1663afab3a1e38789db5a",
+  "counts": {
+    "costumes": 1,
+    "voices": 0,
+    "actions": 5,
+    "expressions": 0
+  },
+  "release": {
+    "state": "draft",
+    "workshopId": null,
+    "nativeMenu": "source-controls",
+    "wpkVerification": "archive-verified",
+    "genderTagReview": false,
+    "codeAudit": "passed"
+  }
+}

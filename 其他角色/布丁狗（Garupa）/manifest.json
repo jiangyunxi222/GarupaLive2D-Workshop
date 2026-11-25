@@ -1,0 +1,22 @@
+{
+  "game": "Garupa",
+  "group": "其他角色",
+  "character": "布丁狗",
+  "entry": "00_integrated.model.json",
+  "files_sha256": {
+    "assets/b9af03ff301c4ee2300b1f81.moc": "b9af03ff301c4ee2300b1f818ca3a97245c57e64176730b08c6c90c71f6941a4",
+    "assets/481e7b8771f748ee5206aea6.png": "481e7b8771f748ee5206aea60842056b1fec7e6cc4139be0f960f8c87c554911",
+    "assets/926a670eba68fff2ebb56bde.physics.json": "926a670eba68fff2ebb56bde641b3052be637077b9f41e7ec61c940025ec75e0",
+    "assets/2dc9fc6e33485653e415e90d.mtn": "2dc9fc6e33485653e415e90d5e41c0dcea31d78bbc093efdc2217d5d8cdb98b2",
+    "assets/72a899d1fb17dbb21c261c15.mtn": "72a899d1fb17dbb21c261c15e784c3d29f4b9b1ebc393708846c6f6f5cdea8c1",
+    "assets/2560a6e373012a4f32f56973.mtn": "2560a6e373012a4f32f569736f28fb828e74a67d354dac54f5960dba35d2a9c1",
+    "assets/ee1c0d641ad9c8d5e60577c0.mtn": "ee1c0d641ad9c8d5e60577c0d1ce3c9245c071980c4c9c64e244d545f98492d8",
+    "assets/43f76b0bc748aff4410888d1.mtn": "43f76b0bc748aff4410888d106c052ab37fce89aea38fb85249a600695295e72",
+    "assets/25686d389e8e6d716ca28cf7.exp.json": "25686d389e8e6d716ca28cf759fb469a410e8c541efe81ac7bf3875c86dc4c7c",
+    "assets/485502cedd9605807350dbf7.exp.json": "485502cedd9605807350dbf7ea1c7c09084d73a25f1c08de4b132e47c3b7f440",
+    "assets/04783efcb1f5c4494738485c.exp.json": "04783efcb1f5c4494738485c90c4dc261183ec42ff6da2dc0555e7bac4937b63",
+    "assets/1aed5cb9c42b0a70bde89592.exp.json": "1aed5cb9c42b0a70bde89592c425dc687374ac04cb549afd20d1e78167da0326",
+    "assets/1266f5237b837b20853eba47.exp.json": "1266f5237b837b20853eba47861291d068e3b1ab63f511cfbf7b330dcb3f1f7b",
+    "00_integrated.model.json": "48a7f51b98e6131debf3224a307d81b5a0594df1796e5e2685eea53f086c6cbe"
+  }
+}

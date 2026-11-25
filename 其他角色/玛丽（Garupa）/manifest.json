@@ -1,0 +1,20 @@
+{
+  "game": "Garupa",
+  "group": "其他角色",
+  "character": "玛丽",
+  "entry": "00_integrated.model.json",
+  "files_sha256": {
+    "assets/8830385513c136653021084b.moc": "8830385513c136653021084b610715ab29f5e23a32bd17c50f303e30ff1e0dff",
+    "assets/df59c6b57eabdac1e62fb567.png": "df59c6b57eabdac1e62fb56727c7f9024f486b6dfeb6fc228e90cf4695cd75a1",
+    "assets/0f8986c9fb242c7fd4634452.physics.json": "0f8986c9fb242c7fd4634452e12aff65deb14f5aafac04b389e9fb561c737743",
+    "assets/f18f952d51eeb4be58ef7624.mtn": "f18f952d51eeb4be58ef76249c09170f5624100fe132f3eea1a43c1b284bd4b0",
+    "assets/4aa6f1e63be846c46dd6e4b6.mtn": "4aa6f1e63be846c46dd6e4b6b9a07d5bc57efbc480d60108ff2cf5a5afeed63a",
+    "assets/723d55bd3e6f0b54b6304e6d.mtn": "723d55bd3e6f0b54b6304e6dd31f96dc4d6300b154bfda863fbc9676b5c64995",
+    "assets/94155a953d68e05431f95c6e.mtn": "94155a953d68e05431f95c6e1164f1d0c2b3b6e588afec234685fb27da70af98",
+    "assets/ff6fc0f777c28b4ec35b336b.mtn": "ff6fc0f777c28b4ec35b336bcad3de023d4f3e7c48a958017b72ad629d11b2fc",
+    "assets/c32d22e0eac2f72067db8437.mtn": "c32d22e0eac2f72067db84378e52760dfefca2c077a0e356481811a14933d29b",
+    "assets/de42eeef49edb6b832b1c38b.mtn": "de42eeef49edb6b832b1c38b7576360033392e9a40939966f97fb69f96b22f58",
+    "assets/2ebad66a3fadc46135a260f7.exp.json": "2ebad66a3fadc46135a260f7b1d08f70aaf6683c71020b5135c953d0b6700fe0",
+    "00_integrated.model.json": "06ee9555aeb6bac5119ebb7cc258ef9a9c96bf6d18323960c7a45ebd93f4d6c0"
+  }
+}

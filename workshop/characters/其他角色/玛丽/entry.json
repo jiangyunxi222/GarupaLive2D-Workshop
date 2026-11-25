@@ -1,0 +1,28 @@
+{
+  "id": "d6be44b9f7d9bc0e",
+  "name": "玛丽",
+  "game": "Garupa",
+  "group": "其他角色",
+  "model": "其他角色/玛丽（Garupa）/00_integrated.model.json",
+  "resourceManifest": "其他角色/玛丽（Garupa）/manifest.json",
+  "sourceLock": "其他角色/玛丽（Garupa）/source-lock.json",
+  "voiceCatalog": "workshop/characters/其他角色/玛丽/resources.json",
+  "metadata": "workshop/characters/其他角色/玛丽/metadata.json",
+  "preview": "workshop/characters/其他角色/玛丽/cover.png",
+  "coverCostume": 1,
+  "coverSha256": "812b55e1be68794e2398b73288c663ee5deb60dcf197b69c331ba9c59e492000",
+  "counts": {
+    "costumes": 1,
+    "voices": 0,
+    "actions": 7,
+    "expressions": 1
+  },
+  "release": {
+    "state": "draft",
+    "workshopId": null,
+    "nativeMenu": "source-controls",
+    "wpkVerification": "archive-verified",
+    "genderTagReview": false,
+    "codeAudit": "passed"
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "version": 1,
+  "source_snapshot": {
+    "snapshot": "snapshots/20261112T052055-7b8b6a25.json"
+  },
+  "costumes": [
+    {
+      "file": "00_integrated.model.json",
+      "folder": "302_casual",
+      "provider": "bestdori",
+      "server": "jp"
+    },
+    {
+      "file": "002_costume.model.json",
+      "folder": "302_anime_live",
+      "provider": "bestdori",
+      "server": "jp"
+    },
+    {
+      "file": "003_costume.model.json",
+      "folder": "302_event_04",
+      "provider": "bestdori",
+      "server": "jp"
+    },
+    {
+      "file": "004_costume.model.json",
+      "folder": "302_school_winter",
+      "provider": "bestdori",
+      "server": "jp"
+    }
+  ],
+  "assets": {
+    "assets/39699ac1c39d1320ac6dfb35.moc": [
+      "https://bestdori.com/assets/jp/live2d/chara/302_anime_live_rip/yuri_remake_live_01.moc"
+    ],
+    "assets/1191a5527de9c43198aeccc5.png": [
+      "https://bestdori.com/assets/jp/live2d/chara/302_anime_live_rip/texture_00.png"
+    ],
+    "assets/20f907ba5fac357d23876d3e.physics.json": [
+      "https://bestdori.com/assets/jp/live2d/chara/302_anime_live_rip/yuri_remake_live_01.physics.json"
+    ],
+    "assets/0cc2f09d27de54ce4633dd0d.mtn": [
+      "https://bestdori.com/assets/jp/live2d/chara/302_general_rip/angry01.mtn",
+      "https://bestdori.com/assets/jp/live2d/chara/302_general_rip/angry01.mtn",
+      "https://bestdori.com/assets/jp/live2d/chara/302_general_rip/angry01.mtn",
+      "https://bestdori.com/assets/jp/live2d/chara/302_general_rip/angry01.mtn"
+    ],
+    "assets/d57c6666ef391a9e08e447a5.mtn": [
+      "https://bestdori.com/assets/jp/live2d/chara/302_general_rip/bye01.mtn",
+      "https://bestdori.com/assets/jp/live2d/chara/302_general_rip/bye01.mtn",
+      "https://bestdori.com/assets/jp/live2d/chara/302_general_rip/bye01.mtn",
+      "https://bestdori.com/assets/jp/live2d/chara/302_general_rip/bye01.mtn"
+    ],
+    "assets/75260e63869bc925f5ffacab.mtn": [
+      "https://bestdori.com/assets/jp/live2d/chara/302_general_rip/cry01.mtn",
+      "https://bestdori.com/assets/jp/live2d/chara/302_general_rip/cry01.mtn",
+      "https://bestdori.com/assets/jp/live2d/chara/302_general_rip/cry01.mtn",
+      "https://bestdori.com/assets/jp/live2d/chara/302_general_rip/cry01.mtn"
+    ],
+    "assets/93efa057cdc18d1eedbb7df8.mtn": [
+      "https://bestdori.com/assets/jp/live2d/chara/302_general_rip/idle01.mtn",
+      "https://bestdori.com/assets/jp/live2d/chara/302_general_rip/idle01.mtn",
+      "https://bestdori.com/assets/jp/live2d/chara/302_general_rip/idle01.mtn",
+      "https://bestdori.com/assets/jp/live2d/chara/302_general_rip/idle01.mtn"
+    ],
+    "assets/4d305108fb75b4837a233e1a.mtn": [
+      "https://bestdori.com/assets/jp/live2d/chara/302_general_rip/idle02.mtn",
+      "https://bestdori.com/assets/jp/live2d/chara/302_general_rip/idle02.mtn",
+      "https://bestdori.com/assets/jp/live2d/chara/302_general_rip/idle02.mtn",
+      "https://bestdori.com/assets/jp/live2d/chara/302_general_rip/idle02.mtn"
+    ],
+    "assets/d24afc52a91ce31192a8269a.mtn": [
+      "https://bestdori.com/assets/jp/live2d/chara/302_general_rip/kime01.mtn",
+      "https://bestdori.com/assets/jp/live2d/chara/302_general_rip/kime01.mtn",
+      "https://bestdori.com/assets/jp/live2d/chara/302_general_rip/kime01.mtn",
+      "https://bestdori.com/assets/jp/live2d/chara/302_general_rip/kime01.mtn"
+    ],
+    "assets/e04bc6823afea2633f4cbd12.mtn": [
+      "https://bestdori.com/assets/jp/live2d/chara/302_general_rip/nf01.mtn",
+      "https://bestdori.com/assets/jp/live2d/chara/302_general_rip/nf01.mtn",
+      "https://bestdori.com/assets/jp/live2d/chara/302_general_rip/nf01.mtn",
+      "https://bestdori.com/assets/jp/live2d/chara/302_general_rip/nf01.mtn"
+    ],
+    "assets/eeadf4be0528cc89c56b9b41.mtn": [
+      "https://bestdori.com/assets/jp/live2d/chara/302_general_rip/nf02.mtn",
+      "https://bestdori.com/assets/jp/live2d/chara/302_general_rip/nf02.mtn",
+      "https://bestdori.com/assets/jp/live2d/chara/302_general_rip/nf02.mtn",
+      "https://bestdori.com/assets/jp/live2d/chara/302_general_rip/nf02.mtn"
+    ],
+    "assets/06306095a0fb0783bb004959.mtn": [
+      "https://bestdori.com/assets/jp/live2d/chara/302_general_rip/nf03.mtn",
+      "https://bestdori.com/assets/jp/live2d/chara/302_general_rip/nf03.mtn",
+      "https://bestdori.com/assets/jp/live2d/chara/302_general_rip/nf03.mtn",
+      "https://bestdori.com/assets/jp/live2d/chara/302_general_rip/nf03.mtn"
+    ],
+    "assets/fdb3ac9cfc45a3ca9cb8db4a.mtn": [
+      "https://bestdori.com/assets/jp/live2d/chara/302_general_rip/nf04.mtn",
+      "https://bestdori.com/assets/jp/live2d/chara/302_general_rip/nf04.mtn",
+      "https://bestdori.com/assets/jp/live2d/chara/302_general_rip/nf04.mtn",
+      "https://bestdori.com/assets/jp/live2d/chara/302_general_rip/nf04.mtn"
+    ],
+    "assets/bfc0c52a4dcfc4e83982f7fc.mtn": [
+      "https://bestdori.com/assets/jp/live2d/chara/302_general_rip/nf05.mtn",
+      "https://bestdori.com/assets/jp/live2d/chara/302_general_rip/nf05.mtn",
+      "https://bestdori.com/assets/jp/live2d/chara/302_general_rip/nf05.mtn",
+      "https://bestdori.com/assets/jp/live2d/chara/302_general_rip/nf05.mtn"
+    ],
+    "assets/e052830225711138a14502b1.mtn": [
+      "https://bestdori.com/assets/jp/live2d/chara/302_general_rip/sad01.mtn",
+      "https://bestdori.com/assets/jp/live2d/chara/302_general_rip/sad01.mtn",
+      "https://bestdori.com/assets/jp/live2d/chara/302_general_rip/sad01.mtn",
+      "https://bestdori.com/assets/jp/live2d/chara/302_general_rip/sad01.mtn"
+    ],
+    "assets/fecaa1c51be55b818a031092.mtn": [
+      "https://bestdori.com/assets/jp/live2d/chara/302_general_rip/serious01.mtn",
+      "https://bestdori.com/assets/jp/live2d/chara/302_general_rip/serious01.mtn",
+      "https://bestdori.com/assets/jp/live2d/chara/302_general_rip/serious01.mtn",
+      "https://bestdori.com/assets/jp/live2d/chara/302_general_rip/serious01.mtn"
+    ],
+    "assets/afa91335989d71d77471dcc9.mtn": [
+      "https://bestdori.com/assets/jp/live2d/chara/302_general_rip/shame01.mtn",
+      "https://bestdori.com/assets/jp/live2d/chara/302_general_rip/shame01.mtn",
+      "https://bestdori.com/assets/jp/live2d/chara/302_general_rip/shame01.mtn",
+      "https://bestdori.com/assets/jp/live2d/chara/302_general_rip/shame01.mtn"
+    ],
+    "assets/bc4f630c66ce9c901ad0a411.mtn": [
+      "https://bestdori.com/assets/jp/live2d/chara/302_general_rip/smile01.mtn",
+      "https://bestdori.com/assets/jp/live2d/chara/302_general_rip/smile01.mtn",
+      "https://bestdori.com/assets/jp/live2d/chara/302_general_rip/smile01.mtn",
+      "https://bestdori.com/assets/jp/live2d/chara/302_general_rip/smile01.mtn"
+    ],
+    "assets/00f804ab2758dcc5bc06c745.mtn": [
+      "https://bestdori.com/assets/jp/live2d/chara/302_general_rip/smile02.mtn",
+      "https://bestdori.com/assets/jp/live2d/chara/302_general_rip/smile02.mtn",
+      "https://bestdori.com/assets/jp/live2d/chara/302_general_rip/smile02.mtn",
+      "https://bestdori.com/assets/jp/live2d/chara/302_general_rip/smile02.mtn"
+    ],
+    "assets/7d2d1f44391549e05e333b5b.mtn": [
+      "https://bestdori.com/assets/jp/live2d/chara/302_general_rip/smile03.mtn",
+      "https://bestdori.com/assets/jp/live2d/chara/302_general_rip/smile03.mtn",
+      "https://bestdori.com/assets/jp/live2d/chara/302_general_rip/smile03.mtn",
+      "https://bestdori.com/assets/jp/live2d/chara/302_general_rip/smile03.mtn"
+    ],
+    "assets/6b830ee22c813a92480ada04.mtn": [
+      "https://bestdori.com/assets/jp/live2d/chara/302_general_rip/smile04.mtn",
+      "https://bestdori.com/assets/jp/live2d/chara/302_general_rip/smile04.mtn",
+      "https://bestdori.com/assets/jp/live2d/chara/302_general_rip/smile04.mtn",
+      "https://bestdori.com/assets/jp/live2d/chara/302_general_rip/smile04.mtn"
+    ],
+    "assets/3f10d84dd3cc742a6fb47fd5.mtn": [
+      "https://bestdori.com/assets/jp/live2d/chara/302_general_rip/surprised01.mtn",
+      "https://bestdori.com/assets/jp/live2d/chara/302_general_rip/surprised01.mtn",
+      "https://bestdori.com/assets/jp/live2d/chara/302_general_rip/surprised01.mtn",
+      "https://bestdori.com/assets/jp/live2d/chara/302_general_rip/surprised01.mtn"
+    ],
+    "assets/de4b3dc0be8fd540ced28751.mtn": [
+      "https://bestdori.com/assets/jp/live2d/chara/302_general_rip/wink01.mtn",
+      "https://bestdori.com/assets/jp/live2d/chara/302_general_rip/wink01.mtn",
+      "https://bestdori.com/assets/jp/live2d/chara/302_general_rip/wink01.mtn",
+      "https://bestdori.com/assets/jp/live2d/chara/302_general_rip/wink01.mtn"
+    ],
+    "assets/2ebad66a3fadc46135a260f7.exp.json": [
+      "https://bestdori.com/assets/jp/live2d/chara/302_general_rip/f01.exp.json",
+      "https://bestdori.com/assets/jp/live2d/chara/302_general_rip/f01.exp.json",
+      "https://bestdori.com/assets/jp/live2d/chara/302_general_rip/f01.exp.json",
+      "https://bestdori.com/assets/jp/live2d/chara/302_general_rip/f01.exp.json"
+    ],
+    "assets/86223ded0dd210bea2beb325.moc": [
+      "https://bestdori.com/assets/jp/live2d/chara/302_casual_rip/yuri_remake_casual.moc"
+    ],
+    "assets/ceb2d12946e8cf78818993c4.png": [
+      "https://bestdori.com/assets/jp/live2d/chara/302_casual_rip/texture_00.png"
+    ],
+    "assets/cbee94ec00be33cda5dd231f.physics.json": [
+      "https://bestdori.com/assets/jp/live2d/chara/302_casual_rip/yuri_remake_casual.physics.json"
+    ],
+    "assets/1b1185f93f6cbd11e7839c22.moc": [
+      "https://bestdori.com/assets/jp/live2d/chara/302_event_04_rip/yuri.moc"
+    ],
+    "assets/0b2d1f885321b73c90f402ac.png": [
+      "https://bestdori.com/assets/jp/live2d/chara/302_event_04_rip/texture_00.png"
+    ],
+    "assets/650e3ad6d48db00cd82efca7.physics.json": [
+      "https://bestdori.com/assets/jp/live2d/chara/302_event_04_rip/yuri.physics.json"
+    ],
+    "assets/0df609fc96da673556cd5447.moc": [
+      "https://bestdori.com/assets/jp/live2d/chara/302_school_winter_rip/yuri_school_winter_t02.moc"
+    ],
+    "assets/ab150b5ecf497285300aa983.png": [
+      "https://bestdori.com/assets/jp/live2d/chara/302_school_winter_rip/texture_00.png"
+    ],
+    "assets/dacea57cf301c3df665a0ebb.physics.json": [
+      "https://bestdori.com/assets/jp/live2d/chara/302_school_winter_rip/yuri_school_winter.physics.json"
+    ]
+  }
+}

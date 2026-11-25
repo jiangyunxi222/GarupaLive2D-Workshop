@@ -1,0 +1,28 @@
+{
+  "id": "5499eb961fe864ee",
+  "name": "帕恰狗",
+  "game": "Garupa",
+  "group": "其他角色",
+  "model": "其他角色/帕恰狗（Garupa）/00_integrated.model.json",
+  "resourceManifest": "其他角色/帕恰狗（Garupa）/manifest.json",
+  "sourceLock": "其他角色/帕恰狗（Garupa）/source-lock.json",
+  "voiceCatalog": "workshop/characters/其他角色/帕恰狗/resources.json",
+  "metadata": "workshop/characters/其他角色/帕恰狗/metadata.json",
+  "preview": "workshop/characters/其他角色/帕恰狗/cover.png",
+  "coverCostume": 1,
+  "coverSha256": "116a6d50e64b42dce2db9e0420d154791252a55a5f73a47fa4aa29ab8bd84658",
+  "counts": {
+    "costumes": 1,
+    "voices": 0,
+    "actions": 5,
+    "expressions": 6
+  },
+  "release": {
+    "state": "draft",
+    "workshopId": null,
+    "nativeMenu": "source-controls",
+    "wpkVerification": "archive-verified",
+    "genderTagReview": false,
+    "codeAudit": "passed"
+  }
+}

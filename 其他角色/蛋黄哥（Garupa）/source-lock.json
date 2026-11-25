@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "source_snapshot": {
+    "snapshot": "snapshots/20261112T052055-7b8b6a25.json"
+  },
+  "costumes": [
+    {
+      "file": "00_integrated.model.json",
+      "folder": "350_event_312_story_01",
+      "provider": "bestdori",
+      "server": "jp"
+    }
+  ],
+  "assets": {
+    "assets/c99527aa128973221adaa5a2.moc": [
+      "https://bestdori.com/assets/jp/live2d/chara/350_event_312_story_01_rip/gudetama_event312.moc"
+    ],
+    "assets/338b38ac2b4998ca09cf0fe5.png": [
+      "https://bestdori.com/assets/jp/live2d/chara/350_event_312_story_01_rip/texture_00.png"
+    ],
+    "assets/926a670eba68fff2ebb56bde.physics.json": [
+      "https://bestdori.com/assets/jp/live2d/chara/350_event_312_story_01_rip/gudetama_event312.physics.json"
+    ],
+    "assets/ccedae6bb5f2a8748801a074.mtn": [
+      "https://bestdori.com/assets/jp/live2d/chara/350_general_rip/idle01.mtn"
+    ],
+    "assets/9286bf4691b9346ec8c57f42.mtn": [
+      "https://bestdori.com/assets/jp/live2d/chara/350_general_rip/idle02.mtn"
+    ],
+    "assets/24ae590191624f7613a72b6f.mtn": [
+      "https://bestdori.com/assets/jp/live2d/chara/350_general_rip/pose01.mtn"
+    ],
+    "assets/4c6d0b155b0cad5dd1f0db61.mtn": [
+      "https://bestdori.com/assets/jp/live2d/chara/350_general_rip/pose02.mtn"
+    ],
+    "assets/cad487c918addee9711f0290.mtn": [
+      "https://bestdori.com/assets/jp/live2d/chara/350_general_rip/pose03.mtn"
+    ]
+  }
+}

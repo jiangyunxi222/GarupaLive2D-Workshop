@@ -1,0 +1,22 @@
+{
+  "costumes": [
+    {
+      "id": 1,
+      "name": "默认衣装",
+      "file": "00_integrated.model.json",
+      "actions": [
+        {
+          "name": "待机01",
+          "file": "assets/f2d841da895c996af08b653b.mtn"
+        }
+      ],
+      "expressions": [
+        {
+          "name": "默认",
+          "file": "assets/8a16f6fbd18fcd34f19a14c3.exp.json"
+        }
+      ]
+    }
+  ],
+  "voices": []
+}

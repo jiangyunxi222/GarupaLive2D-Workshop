@@ -1,0 +1,28 @@
+{
+  "id": "57aa35bf31cbb40c",
+  "name": "灯里",
+  "game": "Garupa",
+  "group": "其他角色",
+  "model": "其他角色/灯里（Garupa）/00_integrated.model.json",
+  "resourceManifest": "其他角色/灯里（Garupa）/manifest.json",
+  "sourceLock": "其他角色/灯里（Garupa）/source-lock.json",
+  "voiceCatalog": "workshop/characters/其他角色/灯里/resources.json",
+  "metadata": "workshop/characters/其他角色/灯里/metadata.json",
+  "preview": "workshop/characters/其他角色/灯里/cover.png",
+  "coverCostume": 1,
+  "coverSha256": "ccde8dec0347f2d224b117f3a07a075a26f062b8ad2513f71b2928d2b086ea47",
+  "counts": {
+    "costumes": 3,
+    "voices": 0,
+    "actions": 63,
+    "expressions": 2
+  },
+  "release": {
+    "state": "draft",
+    "workshopId": null,
+    "nativeMenu": "source-controls",
+    "wpkVerification": "archive-verified",
+    "genderTagReview": false,
+    "codeAudit": "passed"
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "version": "Sample 1.0.0",
+  "model": "assets/7f1ce6d0e7736df850e8a66a.moc",
+  "textures": [
+    "assets/18ef7ec68588d23e4a06d514.png"
+  ],
+  "motions": {
+    "idle": [
+      {
+        "name": "待机",
+        "file": "assets/650464e8d34fb3b504b13856.mtn"
+      }
+    ],
+    "tap": [
+      {
+        "name": "生气01",
+        "file": "assets/77cfb5beff0ec03142702813.mtn",
+        "priority": 3
+      },
+      {
+        "name": "告别01",
+        "file": "assets/5257e42a6997f68cbbe90112.mtn",
+        "priority": 3
+      },
+      {
+        "name": "哭泣01",
+        "file": "assets/7f19b4bd138eb14b11dc377f.mtn",
+        "priority": 3
+      },
+      {
+        "name": "哭泣02",
+        "file": "assets/153ec10f05527b924f4f02d3.mtn",
+        "priority": 3
+      },
+      {
+        "name": "哭泣03",
+        "file": "assets/908aa27c848f71218e78a6f9.mtn",
+        "priority": 3
+      },
+      {
+        "name": "握拳打气01",
+        "file": "assets/7b97e965c1eeadf52b83eda3.mtn",
+        "priority": 3
+      },
+      {
+        "name": "待机01",
+        "file": "assets/650464e8d34fb3b504b13856.mtn",
+        "priority": 3
+      },
+      {
+        "name": "摆姿势01",
+        "file": "assets/989991aeab2b174821357d39.mtn",
+        "priority": 3
+      },
+      {
+        "name": "常规动作01",
+        "file": "assets/12d9f6c82dde8654db158d8f.mtn",
+        "priority": 3
+      },
+      {
+        "name": "常规动作02",
+        "file": "assets/e680f743f7c58f742da35474.mtn",
+        "priority": 3
+      },
+      {
+        "name": "常规动作03",
+        "file": "assets/970773dbdf4a461966f3a8ac.mtn",
+        "priority": 3
+      },
+      {
+        "name": "常规动作04",
+        "file": "assets/3f94155407532e0f28107f62.mtn",
+        "priority": 3
+      },
+      {
+        "name": "常规动作05",
+        "file": "assets/38273cc35b87fb01d2e9cc21.mtn",
+        "priority": 3
+      },
+      {
+        "name": "忐忑01",
+        "file": "assets/f49a0a66f888efce4d8f67a8.mtn",
+        "priority": 3
+      },
+      {
+        "name": "忐忑02",
+        "file": "assets/9e05ee289942f1bbac4878b1.mtn",
+        "priority": 3
+      },
+      {
+        "name": "难过01",
+        "file": "assets/6516aa7dff34e13d5fda2ee3.mtn",
+        "priority": 3
+      },
+      {
+        "name": "难过02",
+        "file": "assets/b5002ae505690260b7b6eee4.mtn",
+        "priority": 3
+      },
+      {
+        "name": "认真01",
+        "file": "assets/ebf7e61fd89ee8468188a738.mtn",
+        "priority": 3
+      },
+      {
+        "name": "害羞01",
+        "file": "assets/840e3179f174303ad8acc52b.mtn",
+        "priority": 3
+      },
+      {
+        "name": "微笑01",
+        "file": "assets/b447b9c1ad2f66a55b10cbde.mtn",
+        "priority": 3
+      },
+      {
+        "name": "微笑02",
+        "file": "assets/5961353b7dae61ec135563da.mtn",
+        "priority": 3
+      },
+      {
+        "name": "微笑03",
+        "file": "assets/3a48f290839932186c559a20.mtn",
+        "priority": 3
+      },
+      {
+        "name": "打喷嚏01",
+        "file": "assets/5339d807768395744047173b.mtn",
+        "priority": 3
+      },
+      {
+        "name": "疑惑01",
+        "file": "assets/3792eb42a61ce2df42eb7ab9.mtn",
+        "priority": 3
+      },
+      {
+        "name": "惊讶01",
+        "file": "assets/c6a8438427fff33777bdae90.mtn",
+        "priority": 3
+      },
+      {
+        "name": "眨眼01",
+        "file": "assets/839d500d48d270348bad9b38.mtn",
+        "priority": 3
+      }
+    ],
+    "tap_face": [
+      {
+        "name": "切换表情",
+        "command": "next_exp"
+      }
+    ]
+  },
+  "physics": "assets/23be2c6cc45c968940b15278.physics.json",
+  "expressions": [
+    {
+      "name": "基础表情01",
+      "file": "assets/2ebad66a3fadc46135a260f7.exp.json"
+    }
+  ],
+  "options": {
+    "id": "garupa_511802e918f4e8b2_0",
+    "tex_fixed": true
+  },
+  "hit_areas": [
+    {
+      "name": "表情",
+      "id": "D_PSD.26",
+      "motion": "tap_face",
+      "order": 30
+    },
+    {
+      "name": "动作",
+      "id": "D_PSD.46",
+      "motion": "tap",
+      "order": 20
+    }
+  ]
+}

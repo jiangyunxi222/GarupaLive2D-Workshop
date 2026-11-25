@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "source_snapshot": {
+    "snapshot": "snapshots/20261112T052055-7b8b6a25.json"
+  },
+  "costumes": [
+    {
+      "file": "00_integrated.model.json",
+      "folder": "217_event_40",
+      "provider": "bestdori",
+      "server": "jp"
+    }
+  ],
+  "assets": {
+    "assets/8830385513c136653021084b.moc": [
+      "https://bestdori.com/assets/jp/live2d/chara/217_event_40_rip/marie_event040_story01.moc"
+    ],
+    "assets/df59c6b57eabdac1e62fb567.png": [
+      "https://bestdori.com/assets/jp/live2d/chara/217_event_40_rip/texture_00.png"
+    ],
+    "assets/0f8986c9fb242c7fd4634452.physics.json": [
+      "https://bestdori.com/assets/jp/live2d/chara/217_event_40_rip/marie_event040_story01.physics.json"
+    ],
+    "assets/f18f952d51eeb4be58ef7624.mtn": [
+      "https://bestdori.com/assets/jp/live2d/chara/217_event_40_rip/m_awate.mtn"
+    ],
+    "assets/4aa6f1e63be846c46dd6e4b6.mtn": [
+      "https://bestdori.com/assets/jp/live2d/chara/217_event_40_rip/m_idle.mtn"
+    ],
+    "assets/723d55bd3e6f0b54b6304e6d.mtn": [
+      "https://bestdori.com/assets/jp/live2d/chara/217_event_40_rip/m_nf01.mtn"
+    ],
+    "assets/94155a953d68e05431f95c6e.mtn": [
+      "https://bestdori.com/assets/jp/live2d/chara/217_event_40_rip/m_nf03.mtn"
+    ],
+    "assets/ff6fc0f777c28b4ec35b336b.mtn": [
+      "https://bestdori.com/assets/jp/live2d/chara/217_event_40_rip/m_nf04.mtn"
+    ],
+    "assets/c32d22e0eac2f72067db8437.mtn": [
+      "https://bestdori.com/assets/jp/live2d/chara/217_event_40_rip/m_sad.mtn"
+    ],
+    "assets/de42eeef49edb6b832b1c38b.mtn": [
+      "https://bestdori.com/assets/jp/live2d/chara/217_event_40_rip/m_surprised.mtn"
+    ],
+    "assets/2ebad66a3fadc46135a260f7.exp.json": [
+      "https://bestdori.com/assets/jp/live2d/chara/217_general_rip/f01.exp.json"
+    ]
+  }
+}

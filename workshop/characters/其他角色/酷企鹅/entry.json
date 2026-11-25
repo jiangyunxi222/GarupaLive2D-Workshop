@@ -1,0 +1,28 @@
+{
+  "id": "22f73b335e0f5ec7",
+  "name": "酷企鹅",
+  "game": "Garupa",
+  "group": "其他角色",
+  "model": "其他角色/酷企鹅（Garupa）/00_integrated.model.json",
+  "resourceManifest": "其他角色/酷企鹅（Garupa）/manifest.json",
+  "sourceLock": "其他角色/酷企鹅（Garupa）/source-lock.json",
+  "voiceCatalog": "workshop/characters/其他角色/酷企鹅/resources.json",
+  "metadata": "workshop/characters/其他角色/酷企鹅/metadata.json",
+  "preview": "workshop/characters/其他角色/酷企鹅/cover.png",
+  "coverCostume": 1,
+  "coverSha256": "c947972e2c35da996ce8c5ed926fd9508fef25ba1a9c7b960cb6f25a6a48a9b8",
+  "counts": {
+    "costumes": 1,
+    "voices": 0,
+    "actions": 5,
+    "expressions": 6
+  },
+  "release": {
+    "state": "draft",
+    "workshopId": null,
+    "nativeMenu": "source-controls",
+    "wpkVerification": "archive-verified",
+    "genderTagReview": false,
+    "codeAudit": "passed"
+  }
+}

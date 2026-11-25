@@ -1,0 +1,58 @@
+{
+  "costumes": [
+    {
+      "id": 1,
+      "name": "便服",
+      "file": "00_integrated.model.json",
+      "actions": [
+        {
+          "name": "生气01",
+          "file": "assets/da35800827b6a18243e5ac0a.mtn"
+        },
+        {
+          "name": "生气02",
+          "file": "assets/f4795bfda5134b99858ea3cf.mtn"
+        },
+        {
+          "name": "开心01",
+          "file": "assets/90ce613c24ff8bc427bb65f7.mtn"
+        },
+        {
+          "name": "待机01",
+          "file": "assets/20d26e9b7810d98b00c2ca80.mtn"
+        },
+        {
+          "name": "待机02",
+          "file": "assets/9929659960d55bcd5dfab89c.mtn"
+        },
+        {
+          "name": "动作",
+          "file": "assets/33917498b39a19a9eb7ce12f.mtn"
+        },
+        {
+          "name": "难过01",
+          "file": "assets/06d5699577959daf09a5036a.mtn"
+        },
+        {
+          "name": "难过02",
+          "file": "assets/028e18b888e970e355eb7ef1.mtn"
+        },
+        {
+          "name": "动作01",
+          "file": "assets/77522c1dc2bdc327d75d3dbc.mtn"
+        },
+        {
+          "name": "动作02",
+          "file": "assets/1d39caf7d523d7fa1d3351af.mtn"
+        }
+      ],
+      "expressions": [
+        {
+          "name": "基础表情01",
+          "file": "assets/2ebad66a3fadc46135a260f7.exp.json"
+        }
+      ]
+    }
+  ],
+  "voices": []
+}

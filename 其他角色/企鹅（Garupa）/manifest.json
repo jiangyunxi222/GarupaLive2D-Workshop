@@ -1,0 +1,23 @@
+{
+  "game": "Garupa",
+  "group": "其他角色",
+  "character": "企鹅",
+  "entry": "00_integrated.model.json",
+  "files_sha256": {
+    "assets/9820549ab1ba8e2b3861c9d3.moc": "9820549ab1ba8e2b3861c9d34b5c9cc5b1eeb77f28e422c69118b58f8e1942d0",
+    "assets/90b696dfeff0aaef935c7dab.png": "90b696dfeff0aaef935c7dab2d8b1d586a8dcd3a84d03e0809d7627ef316c0a9",
+    "assets/e4e52ef83c4b3a2502ca7ae9.physics.json": "e4e52ef83c4b3a2502ca7ae9891e3ebe1089ff6c6ae863f93e9093ef501a1832",
+    "assets/da35800827b6a18243e5ac0a.mtn": "da35800827b6a18243e5ac0aa322dffb221cf97d86c3c5cfa2b4f4d0489a653e",
+    "assets/f4795bfda5134b99858ea3cf.mtn": "f4795bfda5134b99858ea3cf9c915e6c226dcc72a5cd416bb3783933afacf48d",
+    "assets/90ce613c24ff8bc427bb65f7.mtn": "90ce613c24ff8bc427bb65f76532477d80beaa01ecb746517cf872cb89616e20",
+    "assets/20d26e9b7810d98b00c2ca80.mtn": "20d26e9b7810d98b00c2ca8086ba0590146db50f4e5a7ba821cce1503bd944be",
+    "assets/9929659960d55bcd5dfab89c.mtn": "9929659960d55bcd5dfab89c4bc76fbf9ec984c63a262f3837adc267e128840f",
+    "assets/33917498b39a19a9eb7ce12f.mtn": "33917498b39a19a9eb7ce12f9c06769e9f6b5d36965ff9c0adecb6b4b9bbbb6d",
+    "assets/06d5699577959daf09a5036a.mtn": "06d5699577959daf09a5036a8d2f524487445768afe5d6b2299d7e07cb4f059f",
+    "assets/028e18b888e970e355eb7ef1.mtn": "028e18b888e970e355eb7ef17890bf5ef9c6fb42e7b11e54b3012902ce674c5e",
+    "assets/77522c1dc2bdc327d75d3dbc.mtn": "77522c1dc2bdc327d75d3dbc6f3dcffe3f61fa280db216b749497e9bcc54a851",
+    "assets/1d39caf7d523d7fa1d3351af.mtn": "1d39caf7d523d7fa1d3351af1848a059bffe20c4c5e81a42f705b027d06fc2c8",
+    "assets/2ebad66a3fadc46135a260f7.exp.json": "2ebad66a3fadc46135a260f7b1d08f70aaf6683c71020b5135c953d0b6700fe0",
+    "00_integrated.model.json": "f635c2167a744c901f8e684285bc2e2775f2b6840b7444cba3da1e90e00879a7"
+  }
+}

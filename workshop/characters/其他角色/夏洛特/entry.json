@@ -1,0 +1,28 @@
+{
+  "id": "21be495bd4568ad1",
+  "name": "夏洛特",
+  "game": "Garupa",
+  "group": "其他角色",
+  "model": "其他角色/夏洛特（Garupa）/00_integrated.model.json",
+  "resourceManifest": "其他角色/夏洛特（Garupa）/manifest.json",
+  "sourceLock": "其他角色/夏洛特（Garupa）/source-lock.json",
+  "voiceCatalog": "workshop/characters/其他角色/夏洛特/resources.json",
+  "metadata": "workshop/characters/其他角色/夏洛特/metadata.json",
+  "preview": "workshop/characters/其他角色/夏洛特/cover.png",
+  "coverCostume": 1,
+  "coverSha256": "261cb8092bdf6920d538a921a1cacaa5ca3d9aa673bc289e60b53b2721da44f6",
+  "counts": {
+    "costumes": 3,
+    "voices": 0,
+    "actions": 90,
+    "expressions": 39
+  },
+  "release": {
+    "state": "draft",
+    "workshopId": null,
+    "nativeMenu": "source-controls",
+    "wpkVerification": "archive-verified",
+    "genderTagReview": false,
+    "codeAudit": "passed"
+  }
+}

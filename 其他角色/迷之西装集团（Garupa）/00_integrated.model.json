@@ -1,0 +1,47 @@
+{
+  "version": "Sample 1.0.0",
+  "model": "assets/71d3df4b23afdeb213e439bb.moc",
+  "textures": [
+    "assets/25f8b861a000f7a532de5ea9.png"
+  ],
+  "motions": {
+    "idle": [
+      {
+        "name": "待机",
+        "file": "assets/f2d841da895c996af08b653b.mtn"
+      }
+    ],
+    "tap": [
+      {
+        "name": "待机01",
+        "file": "assets/f2d841da895c996af08b653b.mtn",
+        "priority": 3
+      }
+    ],
+    "tap_face": [
+      {
+        "name": "切换表情",
+        "command": "next_exp"
+      }
+    ]
+  },
+  "physics": "assets/53b30e5094fa65eb4aa61a4e.physics.json",
+  "expressions": [
+    {
+      "name": "默认",
+      "file": "assets/8a16f6fbd18fcd34f19a14c3.exp.json"
+    }
+  ],
+  "options": {
+    "id": "garupa_4cd10ec17564935a_0",
+    "tex_fixed": true
+  },
+  "hit_areas": [
+    {
+      "name": "表情",
+      "id": "D_PSD.00",
+      "motion": "tap_face",
+      "order": 30
+    }
+  ]
+}

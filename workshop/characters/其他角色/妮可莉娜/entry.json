@@ -1,0 +1,28 @@
+{
+  "id": "e5958c11de5b7390",
+  "name": "妮可莉娜",
+  "game": "Garupa",
+  "group": "其他角色",
+  "model": "其他角色/妮可莉娜（Garupa）/00_integrated.model.json",
+  "resourceManifest": "其他角色/妮可莉娜（Garupa）/manifest.json",
+  "sourceLock": "其他角色/妮可莉娜（Garupa）/source-lock.json",
+  "voiceCatalog": "workshop/characters/其他角色/妮可莉娜/resources.json",
+  "metadata": "workshop/characters/其他角色/妮可莉娜/metadata.json",
+  "preview": "workshop/characters/其他角色/妮可莉娜/cover.png",
+  "coverCostume": 1,
+  "coverSha256": "a323f1cd269bf6f6a31d774406690e67fe167662e51bdb645faf84e746fec24d",
+  "counts": {
+    "costumes": 1,
+    "voices": 0,
+    "actions": 33,
+    "expressions": 1
+  },
+  "release": {
+    "state": "draft",
+    "workshopId": null,
+    "nativeMenu": "source-controls",
+    "wpkVerification": "archive-verified",
+    "genderTagReview": false,
+    "codeAudit": "passed"
+  }
+}

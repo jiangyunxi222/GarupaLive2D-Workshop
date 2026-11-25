@@ -1,0 +1,28 @@
+{
+  "id": "4834d9dfeccefa95",
+  "name": "企鹅",
+  "game": "Garupa",
+  "group": "其他角色",
+  "model": "其他角色/企鹅（Garupa）/00_integrated.model.json",
+  "resourceManifest": "其他角色/企鹅（Garupa）/manifest.json",
+  "sourceLock": "其他角色/企鹅（Garupa）/source-lock.json",
+  "voiceCatalog": "workshop/characters/其他角色/企鹅/resources.json",
+  "metadata": "workshop/characters/其他角色/企鹅/metadata.json",
+  "preview": "workshop/characters/其他角色/企鹅/cover.png",
+  "coverCostume": 1,
+  "coverSha256": "2224e3ea6a1502cc1c33dd03b29cbb91392672cfd3a17e7a2263563a319f7998",
+  "counts": {
+    "costumes": 1,
+    "voices": 0,
+    "actions": 10,
+    "expressions": 1
+  },
+  "release": {
+    "state": "draft",
+    "workshopId": null,
+    "nativeMenu": "source-controls",
+    "wpkVerification": "archive-verified",
+    "genderTagReview": false,
+    "codeAudit": "passed"
+  }
+}

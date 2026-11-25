@@ -1,0 +1,22 @@
+{
+  "game": "Garupa",
+  "group": "其他角色",
+  "character": "可洛比",
+  "entry": "00_integrated.model.json",
+  "files_sha256": {
+    "assets/bc0ed7185bffb02e56c6bdcd.moc": "bc0ed7185bffb02e56c6bdcd9c4244c859e63335ac636594a5bdf9dec3d5a572",
+    "assets/75d33c6266ddc8a7520057fb.png": "75d33c6266ddc8a7520057fbe666d463cda931d5539a0fe1c63c4929f8edb06b",
+    "assets/926a670eba68fff2ebb56bde.physics.json": "926a670eba68fff2ebb56bde641b3052be637077b9f41e7ec61c940025ec75e0",
+    "assets/e3abd069bfab85071315a176.mtn": "e3abd069bfab85071315a17630d37a8ff14f670705aebeb8a322354dbe0d115f",
+    "assets/3d2e28e29f4e92b26f77d549.mtn": "3d2e28e29f4e92b26f77d549e7ffb1eccc6a1bde354dd95f936a1922b94700eb",
+    "assets/22f918e568ff4a6d9962186f.mtn": "22f918e568ff4a6d9962186f3ee5afc4de091f6d3992725c4e69723d21149a59",
+    "assets/f04742c8b2e341252e86fa9d.mtn": "f04742c8b2e341252e86fa9d2d96a098001c9f5ea9df6fdf60c32e05d1c4bf2b",
+    "assets/f49bf4820fdc61a41f8d2b55.mtn": "f49bf4820fdc61a41f8d2b55972e060d2d6ae4434b3f2e89c8d6a6a3eb86aac0",
+    "assets/25686d389e8e6d716ca28cf7.exp.json": "25686d389e8e6d716ca28cf759fb469a410e8c541efe81ac7bf3875c86dc4c7c",
+    "assets/485502cedd9605807350dbf7.exp.json": "485502cedd9605807350dbf7ea1c7c09084d73a25f1c08de4b132e47c3b7f440",
+    "assets/04783efcb1f5c4494738485c.exp.json": "04783efcb1f5c4494738485c90c4dc261183ec42ff6da2dc0555e7bac4937b63",
+    "assets/1aed5cb9c42b0a70bde89592.exp.json": "1aed5cb9c42b0a70bde89592c425dc687374ac04cb549afd20d1e78167da0326",
+    "assets/1266f5237b837b20853eba47.exp.json": "1266f5237b837b20853eba47861291d068e3b1ab63f511cfbf7b330dcb3f1f7b",
+    "00_integrated.model.json": "bca5dec2bda5deb01f2a4e350f6ac4b691679736bb36ebca229459238428b0cb"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "costumes": [
+    {
+      "id": 1,
+      "name": "2026 联动",
+      "file": "00_integrated.model.json",
+      "actions": [
+        {
+          "name": "待机01",
+          "file": "assets/ed71824fbb537b1f2d72abcf.mtn"
+        },
+        {
+          "name": "待机02",
+          "file": "assets/7acb52306e2a71c5f5a79fbd.mtn"
+        },
+        {
+          "name": "告别（变体）",
+          "file": "assets/8d63e04b36e971c1e75fe2d9.mtn"
+        },
+        {
+          "name": "告别（变体）",
+          "file": "assets/066a921489e7166105e76cba.mtn"
+        },
+        {
+          "name": "告别（变体）",
+          "file": "assets/fb4ed6976d165c5b54b3be5d.mtn"
+        },
+        {
+          "name": "告别（变体）",
+          "file": "assets/2860892ea84bbe505cd46abf.mtn"
+        }
+      ],
+      "expressions": [
+        {
+          "name": "默认",
+          "file": "assets/1b39f14c7f58c8f520974026.exp.json"
+        },
+        {
+          "name": "表情01",
+          "file": "assets/1b39f14c7f58c8f520974026.exp.json"
+        },
+        {
+          "name": "表情02",
+          "file": "assets/9337ef9b4278dc4bece44d2c.exp.json"
+        },
+        {
+          "name": "表情03",
+          "file": "assets/36fc222b16847f814f658a55.exp.json"
+        },
+        {
+          "name": "表情04",
+          "file": "assets/f244ce9a1d1e44a57cff2af6.exp.json"
+        }
+      ]
+    }
+  ],
+  "voices": []
+}

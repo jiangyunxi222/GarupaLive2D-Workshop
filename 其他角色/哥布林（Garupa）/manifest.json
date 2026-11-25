@@ -1,0 +1,13 @@
+{
+  "game": "Garupa",
+  "group": "其他角色",
+  "character": "哥布林",
+  "entry": "00_integrated.model.json",
+  "files_sha256": {
+    "assets/de5aa0760f1eb6fdab29d7e4.moc": "de5aa0760f1eb6fdab29d7e44de875592b97ebe7ef6e5b1aa2004032f26ab1cd",
+    "assets/bb075354708e9baf330c3d7c.png": "bb075354708e9baf330c3d7c180b5a66724023a5e222d9a84319995a38386530",
+    "assets/53b30e5094fa65eb4aa61a4e.physics.json": "53b30e5094fa65eb4aa61a4e2965d7eb6ff86c019e13fcd76c8f18f8be7fab88",
+    "assets/f2d841da895c996af08b653b.mtn": "f2d841da895c996af08b653b47fe8092771ba2b7c3cdc63431501b6ca20d80e3",
+    "00_integrated.model.json": "c8955b53b612d1f9eb40ceab4036568124a05d32df55f408fdcb443fe096ce0b"
+  }
+}

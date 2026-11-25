@@ -1,0 +1,28 @@
+{
+  "id": "9541a19488e85989",
+  "name": "美绪",
+  "game": "Garupa",
+  "group": "其他角色",
+  "model": "其他角色/美绪（Garupa）/00_integrated.model.json",
+  "resourceManifest": "其他角色/美绪（Garupa）/manifest.json",
+  "sourceLock": "其他角色/美绪（Garupa）/source-lock.json",
+  "voiceCatalog": "workshop/characters/其他角色/美绪/resources.json",
+  "metadata": "workshop/characters/其他角色/美绪/metadata.json",
+  "preview": "workshop/characters/其他角色/美绪/cover.png",
+  "coverCostume": 1,
+  "coverSha256": "bd6194ddc3dd0a8ba805b585405d57aa56761749eab90bb7904ba69be693adc6",
+  "counts": {
+    "costumes": 2,
+    "voices": 0,
+    "actions": 36,
+    "expressions": 2
+  },
+  "release": {
+    "state": "draft",
+    "workshopId": null,
+    "nativeMenu": "source-controls",
+    "wpkVerification": "archive-verified",
+    "genderTagReview": false,
+    "codeAudit": "passed"
+  }
+}

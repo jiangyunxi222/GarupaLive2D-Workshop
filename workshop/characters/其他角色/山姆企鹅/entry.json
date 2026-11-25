@@ -1,0 +1,28 @@
+{
+  "id": "762c4514c808f61b",
+  "name": "山姆企鹅",
+  "game": "Garupa",
+  "group": "其他角色",
+  "model": "其他角色/山姆企鹅（Garupa）/00_integrated.model.json",
+  "resourceManifest": "其他角色/山姆企鹅（Garupa）/manifest.json",
+  "sourceLock": "其他角色/山姆企鹅（Garupa）/source-lock.json",
+  "voiceCatalog": "workshop/characters/其他角色/山姆企鹅/resources.json",
+  "metadata": "workshop/characters/其他角色/山姆企鹅/metadata.json",
+  "preview": "workshop/characters/其他角色/山姆企鹅/cover.png",
+  "coverCostume": 1,
+  "coverSha256": "e2cfea569833c889d7043395fab69d687a5e3cc16af4538231a0fcf02815f5d5",
+  "counts": {
+    "costumes": 1,
+    "voices": 0,
+    "actions": 5,
+    "expressions": 5
+  },
+  "release": {
+    "state": "draft",
+    "workshopId": null,
+    "nativeMenu": "source-controls",
+    "wpkVerification": "archive-verified",
+    "genderTagReview": false,
+    "codeAudit": "passed"
+  }
+}

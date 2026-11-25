@@ -1,0 +1,94 @@
+{
+  "version": "Sample 1.0.0",
+  "model": "assets/77da906c6cf99f9b3c13b9f1.moc",
+  "textures": [
+    "assets/ec7aea0e3bb65be8fdee2a14.png"
+  ],
+  "motions": {
+    "idle": [
+      {
+        "name": "待机",
+        "file": "assets/ed71824fbb537b1f2d72abcf.mtn"
+      }
+    ],
+    "tap": [
+      {
+        "name": "待机01",
+        "file": "assets/ed71824fbb537b1f2d72abcf.mtn",
+        "priority": 3
+      },
+      {
+        "name": "待机02",
+        "file": "assets/7acb52306e2a71c5f5a79fbd.mtn",
+        "priority": 3
+      },
+      {
+        "name": "告别（变体）",
+        "file": "assets/8d63e04b36e971c1e75fe2d9.mtn",
+        "priority": 3
+      },
+      {
+        "name": "告别（变体）",
+        "file": "assets/066a921489e7166105e76cba.mtn",
+        "priority": 3
+      },
+      {
+        "name": "告别（变体）",
+        "file": "assets/fb4ed6976d165c5b54b3be5d.mtn",
+        "priority": 3
+      },
+      {
+        "name": "告别（变体）",
+        "file": "assets/2860892ea84bbe505cd46abf.mtn",
+        "priority": 3
+      }
+    ],
+    "tap_face": [
+      {
+        "name": "切换表情",
+        "command": "next_exp"
+      }
+    ]
+  },
+  "physics": "assets/926a670eba68fff2ebb56bde.physics.json",
+  "expressions": [
+    {
+      "name": "默认",
+      "file": "assets/1b39f14c7f58c8f520974026.exp.json"
+    },
+    {
+      "name": "表情01",
+      "file": "assets/1b39f14c7f58c8f520974026.exp.json"
+    },
+    {
+      "name": "表情02",
+      "file": "assets/9337ef9b4278dc4bece44d2c.exp.json"
+    },
+    {
+      "name": "表情03",
+      "file": "assets/36fc222b16847f814f658a55.exp.json"
+    },
+    {
+      "name": "表情04",
+      "file": "assets/f244ce9a1d1e44a57cff2af6.exp.json"
+    }
+  ],
+  "options": {
+    "id": "garupa_5804222835b0fd70_0",
+    "tex_fixed": true
+  },
+  "hit_areas": [
+    {
+      "name": "表情",
+      "id": "D_PSD.15",
+      "motion": "tap_face",
+      "order": 30
+    },
+    {
+      "name": "动作",
+      "id": "D_PSD.28",
+      "motion": "tap",
+      "order": 20
+    }
+  ]
+}

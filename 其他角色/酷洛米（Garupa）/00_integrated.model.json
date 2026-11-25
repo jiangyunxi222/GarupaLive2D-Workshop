@@ -1,0 +1,95 @@
+{
+  "version": "Sample 1.0.0",
+  "model": "assets/26a80604af5f2ca8eba1ab7e.moc",
+  "textures": [
+    "assets/c77e95d449249319defdfc9a.png"
+  ],
+  "motions": {
+    "idle": [
+      {
+        "name": "待机",
+        "file": "assets/9c4f2944a6c4926d6c8871b4.mtn"
+      }
+    ],
+    "tap": [
+      {
+        "name": "待机01",
+        "file": "assets/9c4f2944a6c4926d6c8871b4.mtn",
+        "priority": 3
+      },
+      {
+        "name": "待机02",
+        "file": "assets/366e3435d4b221029830ffff.mtn",
+        "priority": 3
+      },
+      {
+        "name": "动作01",
+        "file": "assets/e4188d4378d08e4442a0e9e9.mtn",
+        "priority": 3
+      },
+      {
+        "name": "动作02",
+        "file": "assets/b933d575bb0d29405a059904.mtn",
+        "priority": 3
+      },
+      {
+        "name": "动作03",
+        "file": "assets/3a005f7a72876292c94d3834.mtn",
+        "priority": 3
+      },
+      {
+        "name": "动作04",
+        "file": "assets/8d196b47ffd2c44448e74d7c.mtn",
+        "priority": 3
+      },
+      {
+        "name": "动作05",
+        "file": "assets/e92d367a8e8ea5ab99e9a39f.mtn",
+        "priority": 3
+      }
+    ],
+    "tap_face": [
+      {
+        "name": "切换表情",
+        "command": "next_exp"
+      }
+    ]
+  },
+  "physics": "assets/926a670eba68fff2ebb56bde.physics.json",
+  "expressions": [
+    {
+      "name": "默认",
+      "file": "assets/25686d389e8e6d716ca28cf7.exp.json"
+    },
+    {
+      "name": "表情01",
+      "file": "assets/25686d389e8e6d716ca28cf7.exp.json"
+    },
+    {
+      "name": "表情02",
+      "file": "assets/485502cedd9605807350dbf7.exp.json"
+    },
+    {
+      "name": "表情04",
+      "file": "assets/1aed5cb9c42b0a70bde89592.exp.json"
+    }
+  ],
+  "options": {
+    "id": "garupa_7893e597e691ccb1_0",
+    "tex_fixed": true
+  },
+  "hit_areas": [
+    {
+      "name": "表情",
+      "id": "D_PSD.90",
+      "motion": "tap_face",
+      "order": 30
+    },
+    {
+      "name": "动作",
+      "id": "D_PSD.175",
+      "motion": "tap",
+      "order": 20
+    }
+  ]
+}

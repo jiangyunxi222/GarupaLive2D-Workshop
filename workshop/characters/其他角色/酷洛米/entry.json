@@ -1,0 +1,28 @@
+{
+  "id": "7893e597e691ccb1",
+  "name": "酷洛米",
+  "game": "Garupa",
+  "group": "其他角色",
+  "model": "其他角色/酷洛米（Garupa）/00_integrated.model.json",
+  "resourceManifest": "其他角色/酷洛米（Garupa）/manifest.json",
+  "sourceLock": "其他角色/酷洛米（Garupa）/source-lock.json",
+  "voiceCatalog": "workshop/characters/其他角色/酷洛米/resources.json",
+  "metadata": "workshop/characters/其他角色/酷洛米/metadata.json",
+  "preview": "workshop/characters/其他角色/酷洛米/cover.png",
+  "coverCostume": 1,
+  "coverSha256": "c86e58ef7702c96e782fb7e1708b10977b921b79f2a7ed9575d653125143b119",
+  "counts": {
+    "costumes": 1,
+    "voices": 0,
+    "actions": 7,
+    "expressions": 4
+  },
+  "release": {
+    "state": "draft",
+    "workshopId": null,
+    "nativeMenu": "source-controls",
+    "wpkVerification": "archive-verified",
+    "genderTagReview": false,
+    "codeAudit": "passed"
+  }
+}

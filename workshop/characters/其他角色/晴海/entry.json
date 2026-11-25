@@ -1,0 +1,28 @@
+{
+  "id": "fcfb8bff022bdb7b",
+  "name": "晴海",
+  "game": "Garupa",
+  "group": "其他角色",
+  "model": "其他角色/晴海（Garupa）/00_integrated.model.json",
+  "resourceManifest": "其他角色/晴海（Garupa）/manifest.json",
+  "sourceLock": "其他角色/晴海（Garupa）/source-lock.json",
+  "voiceCatalog": "workshop/characters/其他角色/晴海/resources.json",
+  "metadata": "workshop/characters/其他角色/晴海/metadata.json",
+  "preview": "workshop/characters/其他角色/晴海/cover.png",
+  "coverCostume": 1,
+  "coverSha256": "38abe9813989204184e85bdb5e6c0a9c757794f547a399494df01a5d033efa14",
+  "counts": {
+    "costumes": 2,
+    "voices": 0,
+    "actions": 40,
+    "expressions": 3
+  },
+  "release": {
+    "state": "draft",
+    "workshopId": null,
+    "nativeMenu": "source-controls",
+    "wpkVerification": "archive-verified",
+    "genderTagReview": false,
+    "codeAudit": "passed"
+  }
+}

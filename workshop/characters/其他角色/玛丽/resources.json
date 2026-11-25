@@ -1,0 +1,46 @@
+{
+  "costumes": [
+    {
+      "id": 1,
+      "name": "活动 40",
+      "file": "00_integrated.model.json",
+      "actions": [
+        {
+          "name": "慌张（变体）",
+          "file": "assets/f18f952d51eeb4be58ef7624.mtn"
+        },
+        {
+          "name": "待机（变体）",
+          "file": "assets/4aa6f1e63be846c46dd6e4b6.mtn"
+        },
+        {
+          "name": "常规动作01（变体）",
+          "file": "assets/723d55bd3e6f0b54b6304e6d.mtn"
+        },
+        {
+          "name": "常规动作03（变体）",
+          "file": "assets/94155a953d68e05431f95c6e.mtn"
+        },
+        {
+          "name": "常规动作04（变体）",
+          "file": "assets/ff6fc0f777c28b4ec35b336b.mtn"
+        },
+        {
+          "name": "难过（变体）",
+          "file": "assets/c32d22e0eac2f72067db8437.mtn"
+        },
+        {
+          "name": "惊讶（变体）",
+          "file": "assets/de42eeef49edb6b832b1c38b.mtn"
+        }
+      ],
+      "expressions": [
+        {
+          "name": "基础表情01",
+          "file": "assets/2ebad66a3fadc46135a260f7.exp.json"
+        }
+      ]
+    }
+  ],
+  "voices": []
+}

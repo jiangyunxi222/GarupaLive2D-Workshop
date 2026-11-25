@@ -1,0 +1,28 @@
+{
+  "id": "5804222835b0fd70",
+  "name": "暹罗猫小豆泥",
+  "game": "Garupa",
+  "group": "其他角色",
+  "model": "其他角色/暹罗猫小豆泥（Garupa）/00_integrated.model.json",
+  "resourceManifest": "其他角色/暹罗猫小豆泥（Garupa）/manifest.json",
+  "sourceLock": "其他角色/暹罗猫小豆泥（Garupa）/source-lock.json",
+  "voiceCatalog": "workshop/characters/其他角色/暹罗猫小豆泥/resources.json",
+  "metadata": "workshop/characters/其他角色/暹罗猫小豆泥/metadata.json",
+  "preview": "workshop/characters/其他角色/暹罗猫小豆泥/cover.png",
+  "coverCostume": 1,
+  "coverSha256": "1fa691a80a6f551b68aad614c0b432bb5b5b2758e88248ee14df2d9ea135e015",
+  "counts": {
+    "costumes": 1,
+    "voices": 0,
+    "actions": 6,
+    "expressions": 5
+  },
+  "release": {
+    "state": "draft",
+    "workshopId": null,
+    "nativeMenu": "source-controls",
+    "wpkVerification": "archive-verified",
+    "genderTagReview": false,
+    "codeAudit": "passed"
+  }
+}

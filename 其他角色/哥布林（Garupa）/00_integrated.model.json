@@ -1,0 +1,35 @@
+{
+  "version": "Sample 1.0.0",
+  "model": "assets/de5aa0760f1eb6fdab29d7e4.moc",
+  "textures": [
+    "assets/bb075354708e9baf330c3d7c.png"
+  ],
+  "motions": {
+    "idle": [
+      {
+        "name": "待机",
+        "file": "assets/f2d841da895c996af08b653b.mtn"
+      }
+    ],
+    "tap": [
+      {
+        "name": "待机01",
+        "file": "assets/f2d841da895c996af08b653b.mtn",
+        "priority": 3
+      }
+    ]
+  },
+  "physics": "assets/53b30e5094fa65eb4aa61a4e.physics.json",
+  "options": {
+    "id": "garupa_edbbea69f73ac695_0",
+    "tex_fixed": true
+  },
+  "hit_areas": [
+    {
+      "name": "动作",
+      "id": "D_PSD1.00",
+      "motion": "tap",
+      "order": 20
+    }
+  ]
+}

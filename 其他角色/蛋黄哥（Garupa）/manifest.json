@@ -1,0 +1,17 @@
+{
+  "game": "Garupa",
+  "group": "其他角色",
+  "character": "蛋黄哥",
+  "entry": "00_integrated.model.json",
+  "files_sha256": {
+    "assets/c99527aa128973221adaa5a2.moc": "c99527aa128973221adaa5a21db18ba8480195dab0d2ec6a90392aed63b61f55",
+    "assets/338b38ac2b4998ca09cf0fe5.png": "338b38ac2b4998ca09cf0fe5754dae32c01a60492219e80838769a543e4fe189",
+    "assets/926a670eba68fff2ebb56bde.physics.json": "926a670eba68fff2ebb56bde641b3052be637077b9f41e7ec61c940025ec75e0",
+    "assets/ccedae6bb5f2a8748801a074.mtn": "ccedae6bb5f2a8748801a0747d444b2dc7c103a48faa427c05298475e43f4277",
+    "assets/9286bf4691b9346ec8c57f42.mtn": "9286bf4691b9346ec8c57f4202e3583852fb11d680507a991acf21b919e17bcb",
+    "assets/24ae590191624f7613a72b6f.mtn": "24ae590191624f7613a72b6fd21543c668605ce4311721329fe865b98fb58dd9",
+    "assets/4c6d0b155b0cad5dd1f0db61.mtn": "4c6d0b155b0cad5dd1f0db619dc7c77b77fc6c36b676837e8e7a03c2b8e58729",
+    "assets/cad487c918addee9711f0290.mtn": "cad487c918addee9711f02905df9d8c59346b0147d47e07a7b2078090ded2c64",
+    "00_integrated.model.json": "50258617284baceaf9f247051ba0beb1cc56a65467bb9179366f0f97ad5180d1"
+  }
+}

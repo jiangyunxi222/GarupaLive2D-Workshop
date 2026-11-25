@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "source_snapshot": {
+    "snapshot": "snapshots/20261112T052055-7b8b6a25.json"
+  },
+  "costumes": [
+    {
+      "file": "00_integrated.model.json",
+      "folder": "346_event_312_story_01",
+      "provider": "bestdori",
+      "server": "jp"
+    }
+  ],
+  "assets": {
+    "assets/2adaf48f2e01f9ca0c4a0df5.moc": [
+      "https://bestdori.com/assets/jp/live2d/chara/346_event_312_story_01_rip/hellokitty_event312.moc"
+    ],
+    "assets/b894e47f1d64a098d4637a21.png": [
+      "https://bestdori.com/assets/jp/live2d/chara/346_event_312_story_01_rip/texture_00.png"
+    ],
+    "assets/926a670eba68fff2ebb56bde.physics.json": [
+      "https://bestdori.com/assets/jp/live2d/chara/346_event_312_story_01_rip/hellokitty_event312.physics.json"
+    ],
+    "assets/4b524166c3ceea8b45ef4340.mtn": [
+      "https://bestdori.com/assets/jp/live2d/chara/346_general_rip/idle01.mtn"
+    ],
+    "assets/95396c51ae2ea08053f12cf1.mtn": [
+      "https://bestdori.com/assets/jp/live2d/chara/346_general_rip/pose01.mtn"
+    ],
+    "assets/a3e6d8eb2640c93f2ddcbc73.mtn": [
+      "https://bestdori.com/assets/jp/live2d/chara/346_general_rip/pose02.mtn"
+    ],
+    "assets/eeb3553692918a11f22e46d5.mtn": [
+      "https://bestdori.com/assets/jp/live2d/chara/346_general_rip/pose03.mtn"
+    ],
+    "assets/d8263ea3ef5549afdf0a7f65.mtn": [
+      "https://bestdori.com/assets/jp/live2d/chara/346_general_rip/idle02.mtn"
+    ],
+    "assets/25686d389e8e6d716ca28cf7.exp.json": [
+      "https://bestdori.com/assets/jp/live2d/chara/346_general_rip/default.exp.json",
+      "https://bestdori.com/assets/jp/live2d/chara/346_general_rip/exp01.exp.json"
+    ],
+    "assets/485502cedd9605807350dbf7.exp.json": [
+      "https://bestdori.com/assets/jp/live2d/chara/346_general_rip/exp02.exp.json"
+    ],
+    "assets/04783efcb1f5c4494738485c.exp.json": [
+      "https://bestdori.com/assets/jp/live2d/chara/346_general_rip/exp03.exp.json"
+    ],
+    "assets/1aed5cb9c42b0a70bde89592.exp.json": [
+      "https://bestdori.com/assets/jp/live2d/chara/346_general_rip/exp04.exp.json"
+    ],
+    "assets/1266f5237b837b20853eba47.exp.json": [
+      "https://bestdori.com/assets/jp/live2d/chara/346_general_rip/exp05.exp.json"
+    ]
+  }
+}

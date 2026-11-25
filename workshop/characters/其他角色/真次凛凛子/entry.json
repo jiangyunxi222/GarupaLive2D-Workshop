@@ -1,0 +1,28 @@
+{
+  "id": "7155b8a383300690",
+  "name": "真次凛凛子",
+  "game": "Garupa",
+  "group": "其他角色",
+  "model": "其他角色/真次凛凛子（Garupa）/00_integrated.model.json",
+  "resourceManifest": "其他角色/真次凛凛子（Garupa）/manifest.json",
+  "sourceLock": "其他角色/真次凛凛子（Garupa）/source-lock.json",
+  "voiceCatalog": "workshop/characters/其他角色/真次凛凛子/resources.json",
+  "metadata": "workshop/characters/其他角色/真次凛凛子/metadata.json",
+  "preview": "workshop/characters/其他角色/真次凛凛子/cover.png",
+  "coverCostume": 1,
+  "coverSha256": "42db4d26cab3959e056e6d97e0aeffdbb1692ccb12b8eefbc51127f4d0198fda",
+  "counts": {
+    "costumes": 2,
+    "voices": 0,
+    "actions": 54,
+    "expressions": 56
+  },
+  "release": {
+    "state": "draft",
+    "workshopId": null,
+    "nativeMenu": "source-controls",
+    "wpkVerification": "archive-verified",
+    "genderTagReview": false,
+    "codeAudit": "passed"
+  }
+}

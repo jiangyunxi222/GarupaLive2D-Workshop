@@ -1,0 +1,22 @@
+{
+  "game": "Garupa",
+  "group": "其他角色",
+  "character": "帕恰狗",
+  "entry": "00_integrated.model.json",
+  "files_sha256": {
+    "assets/9e9f0769467e03a54238d1c7.moc": "9e9f0769467e03a54238d1c74154bb54050c8efa744b507175f662e7f2ef6898",
+    "assets/0090e5a0994e49764274d13e.png": "0090e5a0994e49764274d13e3a85ab2b7961a8cd57ea30230b7fb4c47cc8679f",
+    "assets/926a670eba68fff2ebb56bde.physics.json": "926a670eba68fff2ebb56bde641b3052be637077b9f41e7ec61c940025ec75e0",
+    "assets/46ac913c36ba570d2782e035.mtn": "46ac913c36ba570d2782e0354d5839cfdee4aa1981ee83eec4481dfa9f1e5f2b",
+    "assets/897b13422a914e210c239cff.mtn": "897b13422a914e210c239cfff93335e68f209b821fa63efa87ae1dee0a2d7814",
+    "assets/85ecd39b51ed980b6f18be2d.mtn": "85ecd39b51ed980b6f18be2d84f661ccadef92eb38fc0f3fae4667f0fc86ccb3",
+    "assets/214d674a0a2061ba3b018bb2.mtn": "214d674a0a2061ba3b018bb2d062d12eab3622ac7dca2b433bf3529c32769041",
+    "assets/7a3fc3538f1371b5eb67d988.mtn": "7a3fc3538f1371b5eb67d9889e0227fc2450d2e9801bb8e07ebee5780f8cd9ff",
+    "assets/25686d389e8e6d716ca28cf7.exp.json": "25686d389e8e6d716ca28cf759fb469a410e8c541efe81ac7bf3875c86dc4c7c",
+    "assets/485502cedd9605807350dbf7.exp.json": "485502cedd9605807350dbf7ea1c7c09084d73a25f1c08de4b132e47c3b7f440",
+    "assets/04783efcb1f5c4494738485c.exp.json": "04783efcb1f5c4494738485c90c4dc261183ec42ff6da2dc0555e7bac4937b63",
+    "assets/1aed5cb9c42b0a70bde89592.exp.json": "1aed5cb9c42b0a70bde89592c425dc687374ac04cb549afd20d1e78167da0326",
+    "assets/1266f5237b837b20853eba47.exp.json": "1266f5237b837b20853eba47861291d068e3b1ab63f511cfbf7b330dcb3f1f7b",
+    "00_integrated.model.json": "ab6f899262b2f81e0a7fd320c29be32aaae8694e19c6809f61a577d6c4abf88a"
+  }
+}

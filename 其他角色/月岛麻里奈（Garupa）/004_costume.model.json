@@ -1,0 +1,52 @@
+{
+  "version": "Sample 1.0.0",
+  "model": "assets/8bc00243c4210edc25619d78.moc",
+  "textures": [
+    "assets/60be6c5e35646515d387f8f9.png"
+  ],
+  "motions": {
+    "idle": [
+      {
+        "name": "待机",
+        "file": "assets/158d19f91c136d51fa1309c2.mtn"
+      }
+    ],
+    "tap": [
+      {
+        "name": "待机01",
+        "file": "assets/158d19f91c136d51fa1309c2.mtn",
+        "priority": 3
+      },
+      {
+        "name": "点头01",
+        "file": "assets/46c27b965f7015ceb2a3ca4e.mtn",
+        "priority": 3
+      }
+    ],
+    "tap_costume": [
+      {
+        "name": "换装",
+        "command": "change_model 005_costume.model.json"
+      }
+    ]
+  },
+  "physics": "assets/89bc5b05db1a9b93bd9ad9cf.physics.json",
+  "options": {
+    "id": "garupa_006a067332225d32_3",
+    "tex_fixed": true
+  },
+  "hit_areas": [
+    {
+      "name": "动作",
+      "id": "D_PSD.06",
+      "motion": "tap",
+      "order": 20
+    },
+    {
+      "name": "换装",
+      "id": "D_PSD.02",
+      "motion": "tap_costume",
+      "order": 10
+    }
+  ]
+}

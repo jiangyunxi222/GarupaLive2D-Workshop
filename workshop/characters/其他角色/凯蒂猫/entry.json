@@ -1,0 +1,28 @@
+{
+  "id": "8d2fc7494aabb77b",
+  "name": "凯蒂猫",
+  "game": "Garupa",
+  "group": "其他角色",
+  "model": "其他角色/凯蒂猫（Garupa）/00_integrated.model.json",
+  "resourceManifest": "其他角色/凯蒂猫（Garupa）/manifest.json",
+  "sourceLock": "其他角色/凯蒂猫（Garupa）/source-lock.json",
+  "voiceCatalog": "workshop/characters/其他角色/凯蒂猫/resources.json",
+  "metadata": "workshop/characters/其他角色/凯蒂猫/metadata.json",
+  "preview": "workshop/characters/其他角色/凯蒂猫/cover.png",
+  "coverCostume": 1,
+  "coverSha256": "8ad7b14b70f8a93d165f2b770bae3cb3330142f3fac282553c5960263e555c9c",
+  "counts": {
+    "costumes": 1,
+    "voices": 0,
+    "actions": 5,
+    "expressions": 6
+  },
+  "release": {
+    "state": "draft",
+    "workshopId": null,
+    "nativeMenu": "source-controls",
+    "wpkVerification": "archive-verified",
+    "genderTagReview": false,
+    "codeAudit": "passed"
+  }
+}

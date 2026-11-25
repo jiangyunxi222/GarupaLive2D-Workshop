@@ -1,0 +1,183 @@
+{
+  "costumes": [
+    {
+      "id": 1,
+      "name": "演出服",
+      "file": "00_integrated.model.json",
+      "actions": [
+        {
+          "name": "生气01",
+          "file": "assets/884eaf6b56d0131cf7d112a9.mtn"
+        },
+        {
+          "name": "慌张01",
+          "file": "assets/26a0ede604cff574b31f0dab.mtn"
+        },
+        {
+          "name": "告别01",
+          "file": "assets/7533771b8cabfc4f7bcfe9ba.mtn"
+        },
+        {
+          "name": "哭泣01",
+          "file": "assets/a2129ea6235a13ece322c6ce.mtn"
+        },
+        {
+          "name": "待机01",
+          "file": "assets/82927febfb5b64e5861a04d5.mtn"
+        },
+        {
+          "name": "摆姿势01",
+          "file": "assets/d6fe1e813ba3910294ee3b9f.mtn"
+        },
+        {
+          "name": "常规动作01",
+          "file": "assets/a5b1d4631c200084ed88ec5f.mtn"
+        },
+        {
+          "name": "常规动作02",
+          "file": "assets/b734e98531faff942c81736c.mtn"
+        },
+        {
+          "name": "常规动作03",
+          "file": "assets/275cd87a01d3d2a5a3490448.mtn"
+        },
+        {
+          "name": "常规动作04",
+          "file": "assets/ee51fd34b764a703617a9d4d.mtn"
+        },
+        {
+          "name": "常规动作05",
+          "file": "assets/102a5de91d84d9ce7406125b.mtn"
+        },
+        {
+          "name": "常规动作01（左向）",
+          "file": "assets/9af5e5c1493d11e2d17d0d78.mtn"
+        },
+        {
+          "name": "常规动作01（右向）",
+          "file": "assets/d821818b9160031c4a464d10.mtn"
+        },
+        {
+          "name": "难过01",
+          "file": "assets/a2d4fc361526683f4c0673f5.mtn"
+        },
+        {
+          "name": "认真01",
+          "file": "assets/34c947db60bf646e0be25b2d.mtn"
+        },
+        {
+          "name": "微笑01",
+          "file": "assets/7a392ff5e6e737d6ef71d799.mtn"
+        },
+        {
+          "name": "微笑02",
+          "file": "assets/821dfe184b302069b2abc3df.mtn"
+        },
+        {
+          "name": "微笑03",
+          "file": "assets/39989eec5d085a019331f04e.mtn"
+        },
+        {
+          "name": "惊讶01",
+          "file": "assets/89768eeb0ddb25c39f41ab7d.mtn"
+        }
+      ],
+      "expressions": [
+        {
+          "name": "默认",
+          "file": "assets/8a16f6fbd18fcd34f19a14c3.exp.json"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "剧情衣装",
+      "file": "002_costume.model.json",
+      "actions": [
+        {
+          "name": "生气01",
+          "file": "assets/884eaf6b56d0131cf7d112a9.mtn"
+        },
+        {
+          "name": "慌张01",
+          "file": "assets/26a0ede604cff574b31f0dab.mtn"
+        },
+        {
+          "name": "告别01",
+          "file": "assets/7533771b8cabfc4f7bcfe9ba.mtn"
+        },
+        {
+          "name": "哭泣01",
+          "file": "assets/a2129ea6235a13ece322c6ce.mtn"
+        },
+        {
+          "name": "待机01",
+          "file": "assets/82927febfb5b64e5861a04d5.mtn"
+        },
+        {
+          "name": "摆姿势01",
+          "file": "assets/d6fe1e813ba3910294ee3b9f.mtn"
+        },
+        {
+          "name": "常规动作01",
+          "file": "assets/a5b1d4631c200084ed88ec5f.mtn"
+        },
+        {
+          "name": "常规动作02",
+          "file": "assets/b734e98531faff942c81736c.mtn"
+        },
+        {
+          "name": "常规动作03",
+          "file": "assets/275cd87a01d3d2a5a3490448.mtn"
+        },
+        {
+          "name": "常规动作04",
+          "file": "assets/ee51fd34b764a703617a9d4d.mtn"
+        },
+        {
+          "name": "常规动作05",
+          "file": "assets/102a5de91d84d9ce7406125b.mtn"
+        },
+        {
+          "name": "常规动作01（左向）",
+          "file": "assets/9af5e5c1493d11e2d17d0d78.mtn"
+        },
+        {
+          "name": "常规动作01（右向）",
+          "file": "assets/d821818b9160031c4a464d10.mtn"
+        },
+        {
+          "name": "难过01",
+          "file": "assets/a2d4fc361526683f4c0673f5.mtn"
+        },
+        {
+          "name": "认真01",
+          "file": "assets/34c947db60bf646e0be25b2d.mtn"
+        },
+        {
+          "name": "微笑01",
+          "file": "assets/7a392ff5e6e737d6ef71d799.mtn"
+        },
+        {
+          "name": "微笑02",
+          "file": "assets/821dfe184b302069b2abc3df.mtn"
+        },
+        {
+          "name": "微笑03",
+          "file": "assets/39989eec5d085a019331f04e.mtn"
+        },
+        {
+          "name": "惊讶01",
+          "file": "assets/89768eeb0ddb25c39f41ab7d.mtn"
+        }
+      ],
+      "expressions": [
+        {
+          "name": "默认",
+          "file": "assets/8a16f6fbd18fcd34f19a14c3.exp.json"
+        }
+      ]
+    }
+  ],
+  "voices": []
+}

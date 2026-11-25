@@ -1,0 +1,28 @@
+{
+  "id": "edbbea69f73ac695",
+  "name": "哥布林",
+  "game": "Garupa",
+  "group": "其他角色",
+  "model": "其他角色/哥布林（Garupa）/00_integrated.model.json",
+  "resourceManifest": "其他角色/哥布林（Garupa）/manifest.json",
+  "sourceLock": "其他角色/哥布林（Garupa）/source-lock.json",
+  "voiceCatalog": "workshop/characters/其他角色/哥布林/resources.json",
+  "metadata": "workshop/characters/其他角色/哥布林/metadata.json",
+  "preview": "workshop/characters/其他角色/哥布林/cover.png",
+  "coverCostume": 1,
+  "coverSha256": "6368f8ad2d8448d065424947d42719666a92e34f805d124d07c53f31862f7e46",
+  "counts": {
+    "costumes": 1,
+    "voices": 0,
+    "actions": 1,
+    "expressions": 0
+  },
+  "release": {
+    "state": "draft",
+    "workshopId": null,
+    "nativeMenu": "source-controls",
+    "wpkVerification": "archive-verified",
+    "genderTagReview": false,
+    "codeAudit": "passed"
+  }
+}

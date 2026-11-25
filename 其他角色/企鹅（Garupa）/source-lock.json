@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "source_snapshot": {
+    "snapshot": "snapshots/20261112T052055-7b8b6a25.json"
+  },
+  "costumes": [
+    {
+      "file": "00_integrated.model.json",
+      "folder": "305_casual",
+      "provider": "bestdori",
+      "server": "jp"
+    }
+  ],
+  "assets": {
+    "assets/9820549ab1ba8e2b3861c9d3.moc": [
+      "https://bestdori.com/assets/jp/live2d/chara/305_casual_rip/penguin_t05.moc"
+    ],
+    "assets/90b696dfeff0aaef935c7dab.png": [
+      "https://bestdori.com/assets/jp/live2d/chara/305_casual_rip/texture_00.png"
+    ],
+    "assets/e4e52ef83c4b3a2502ca7ae9.physics.json": [
+      "https://bestdori.com/assets/jp/live2d/chara/305_casual_rip/penguin_t05.physics.json"
+    ],
+    "assets/da35800827b6a18243e5ac0a.mtn": [
+      "https://bestdori.com/assets/jp/live2d/chara/305_general_rip/angry01.mtn"
+    ],
+    "assets/f4795bfda5134b99858ea3cf.mtn": [
+      "https://bestdori.com/assets/jp/live2d/chara/305_general_rip/angry02.mtn"
+    ],
+    "assets/90ce613c24ff8bc427bb65f7.mtn": [
+      "https://bestdori.com/assets/jp/live2d/chara/305_general_rip/happy01.mtn"
+    ],
+    "assets/20d26e9b7810d98b00c2ca80.mtn": [
+      "https://bestdori.com/assets/jp/live2d/chara/305_general_rip/idle01.mtn"
+    ],
+    "assets/9929659960d55bcd5dfab89c.mtn": [
+      "https://bestdori.com/assets/jp/live2d/chara/305_general_rip/idle02.mtn"
+    ],
+    "assets/33917498b39a19a9eb7ce12f.mtn": [
+      "https://bestdori.com/assets/jp/live2d/chara/305_general_rip/impatience.mtn"
+    ],
+    "assets/06d5699577959daf09a5036a.mtn": [
+      "https://bestdori.com/assets/jp/live2d/chara/305_general_rip/sad01.mtn"
+    ],
+    "assets/028e18b888e970e355eb7ef1.mtn": [
+      "https://bestdori.com/assets/jp/live2d/chara/305_general_rip/sad02.mtn"
+    ],
+    "assets/77522c1dc2bdc327d75d3dbc.mtn": [
+      "https://bestdori.com/assets/jp/live2d/chara/305_general_rip/swaying01.mtn"
+    ],
+    "assets/1d39caf7d523d7fa1d3351af.mtn": [
+      "https://bestdori.com/assets/jp/live2d/chara/305_general_rip/swaying02.mtn"
+    ],
+    "assets/2ebad66a3fadc46135a260f7.exp.json": [
+      "https://bestdori.com/assets/jp/live2d/chara/305_general_rip/f01.exp.json"
+    ]
+  }
+}

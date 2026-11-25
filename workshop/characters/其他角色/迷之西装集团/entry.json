@@ -1,0 +1,28 @@
+{
+  "id": "4cd10ec17564935a",
+  "name": "迷之西装集团",
+  "game": "Garupa",
+  "group": "其他角色",
+  "model": "其他角色/迷之西装集团（Garupa）/00_integrated.model.json",
+  "resourceManifest": "其他角色/迷之西装集团（Garupa）/manifest.json",
+  "sourceLock": "其他角色/迷之西装集团（Garupa）/source-lock.json",
+  "voiceCatalog": "workshop/characters/其他角色/迷之西装集团/resources.json",
+  "metadata": "workshop/characters/其他角色/迷之西装集团/metadata.json",
+  "preview": "workshop/characters/其他角色/迷之西装集团/cover.png",
+  "coverCostume": 1,
+  "coverSha256": "e9cc7b53d81f88efe7bc245cf04e378fd704d70980382e4f2109fa7bcc28758c",
+  "counts": {
+    "costumes": 1,
+    "voices": 0,
+    "actions": 1,
+    "expressions": 1
+  },
+  "release": {
+    "state": "draft",
+    "workshopId": null,
+    "nativeMenu": "source-controls",
+    "wpkVerification": "archive-verified",
+    "genderTagReview": false,
+    "codeAudit": "passed"
+  }
+}

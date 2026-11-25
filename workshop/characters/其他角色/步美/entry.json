@@ -1,0 +1,28 @@
+{
+  "id": "511802e918f4e8b2",
+  "name": "步美",
+  "game": "Garupa",
+  "group": "其他角色",
+  "model": "其他角色/步美（Garupa）/00_integrated.model.json",
+  "resourceManifest": "其他角色/步美（Garupa）/manifest.json",
+  "sourceLock": "其他角色/步美（Garupa）/source-lock.json",
+  "voiceCatalog": "workshop/characters/其他角色/步美/resources.json",
+  "metadata": "workshop/characters/其他角色/步美/metadata.json",
+  "preview": "workshop/characters/其他角色/步美/cover.png",
+  "coverCostume": 1,
+  "coverSha256": "5beb67dfd4cb4ef73301fd72922333192f4f8976670bd959719336f8bd7b3c52",
+  "counts": {
+    "costumes": 1,
+    "voices": 0,
+    "actions": 26,
+    "expressions": 1
+  },
+  "release": {
+    "state": "draft",
+    "workshopId": null,
+    "nativeMenu": "source-controls",
+    "wpkVerification": "archive-verified",
+    "genderTagReview": false,
+    "codeAudit": "passed"
+  }
+}

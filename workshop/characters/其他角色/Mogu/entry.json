@@ -1,0 +1,28 @@
+{
+  "id": "e96f0661e87a74e9",
+  "name": "Mogu",
+  "game": "Garupa",
+  "group": "其他角色",
+  "model": "其他角色/Mogu（Garupa）/00_integrated.model.json",
+  "resourceManifest": "其他角色/Mogu（Garupa）/manifest.json",
+  "sourceLock": "其他角色/Mogu（Garupa）/source-lock.json",
+  "voiceCatalog": "workshop/characters/其他角色/Mogu/resources.json",
+  "metadata": "workshop/characters/其他角色/Mogu/metadata.json",
+  "preview": "workshop/characters/其他角色/Mogu/cover.png",
+  "coverCostume": 1,
+  "coverSha256": "1facfa1903f0844a4f6738efdf94b3551831bf527a9193c0312db3502d27bf55",
+  "counts": {
+    "costumes": 1,
+    "voices": 0,
+    "actions": 11,
+    "expressions": 10
+  },
+  "release": {
+    "state": "draft",
+    "workshopId": null,
+    "nativeMenu": "source-controls",
+    "wpkVerification": "archive-verified",
+    "genderTagReview": false,
+    "codeAudit": "passed"
+  }
+}

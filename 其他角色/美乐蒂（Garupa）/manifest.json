@@ -1,0 +1,22 @@
+{
+  "game": "Garupa",
+  "group": "其他角色",
+  "character": "美乐蒂",
+  "entry": "00_integrated.model.json",
+  "files_sha256": {
+    "assets/14d2da3e7a9faed0e49abc4a.moc": "14d2da3e7a9faed0e49abc4a72fa6eb7904355439517ac7a0d0c34a9cd3b10dc",
+    "assets/edc155158dc7f80cf8ae3d95.png": "edc155158dc7f80cf8ae3d954fcfd988bfaa58fca36aa96c5b2fe5f77d3dcffb",
+    "assets/926a670eba68fff2ebb56bde.physics.json": "926a670eba68fff2ebb56bde641b3052be637077b9f41e7ec61c940025ec75e0",
+    "assets/f22762c3dd90b4e702ec625c.mtn": "f22762c3dd90b4e702ec625c552918c435cb59f25572538be14c34dd732c5608",
+    "assets/dc464d8969b8f8fad1e55888.mtn": "dc464d8969b8f8fad1e558880ee01ac88805127f6a82463fac2f5ac72dcf2dfd",
+    "assets/03f75496cb37cb7f5be6100a.mtn": "03f75496cb37cb7f5be6100a4e3fac51656cdaf86d7081421bca8efc773e1e70",
+    "assets/f54d1cb86934c6f14a9ddd3f.mtn": "f54d1cb86934c6f14a9ddd3fd2e28ff6f6a470c41cbca5b0780fe860c59f7961",
+    "assets/b827042351cdc031f54bde83.mtn": "b827042351cdc031f54bde83d25547150980103a7b45a015045ed893c4cda866",
+    "assets/25686d389e8e6d716ca28cf7.exp.json": "25686d389e8e6d716ca28cf759fb469a410e8c541efe81ac7bf3875c86dc4c7c",
+    "assets/485502cedd9605807350dbf7.exp.json": "485502cedd9605807350dbf7ea1c7c09084d73a25f1c08de4b132e47c3b7f440",
+    "assets/04783efcb1f5c4494738485c.exp.json": "04783efcb1f5c4494738485c90c4dc261183ec42ff6da2dc0555e7bac4937b63",
+    "assets/1aed5cb9c42b0a70bde89592.exp.json": "1aed5cb9c42b0a70bde89592c425dc687374ac04cb549afd20d1e78167da0326",
+    "assets/1266f5237b837b20853eba47.exp.json": "1266f5237b837b20853eba47861291d068e3b1ab63f511cfbf7b330dcb3f1f7b",
+    "00_integrated.model.json": "593181c9578fff679431b2d580b1e9eea73f633452849f8fbbc0f33b6e1c1b1d"
+  }
+}

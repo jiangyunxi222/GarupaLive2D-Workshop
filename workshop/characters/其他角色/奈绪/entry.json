@@ -1,0 +1,28 @@
+{
+  "id": "4d2bfd52e383ee3d",
+  "name": "奈绪",
+  "game": "Garupa",
+  "group": "其他角色",
+  "model": "其他角色/奈绪（Garupa）/00_integrated.model.json",
+  "resourceManifest": "其他角色/奈绪（Garupa）/manifest.json",
+  "sourceLock": "其他角色/奈绪（Garupa）/source-lock.json",
+  "voiceCatalog": "workshop/characters/其他角色/奈绪/resources.json",
+  "metadata": "workshop/characters/其他角色/奈绪/metadata.json",
+  "preview": "workshop/characters/其他角色/奈绪/cover.png",
+  "coverCostume": 1,
+  "coverSha256": "976f99b1c4f95e0e6fc2eecd70d36c8d63b63f7503b4b56e647b8331f486490a",
+  "counts": {
+    "costumes": 1,
+    "voices": 0,
+    "actions": 31,
+    "expressions": 18
+  },
+  "release": {
+    "state": "draft",
+    "workshopId": null,
+    "nativeMenu": "source-controls",
+    "wpkVerification": "archive-verified",
+    "genderTagReview": false,
+    "codeAudit": "passed"
+  }
+}

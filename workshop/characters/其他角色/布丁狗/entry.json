@@ -1,0 +1,28 @@
+{
+  "id": "f6ceaba384a11862",
+  "name": "布丁狗",
+  "game": "Garupa",
+  "group": "其他角色",
+  "model": "其他角色/布丁狗（Garupa）/00_integrated.model.json",
+  "resourceManifest": "其他角色/布丁狗（Garupa）/manifest.json",
+  "sourceLock": "其他角色/布丁狗（Garupa）/source-lock.json",
+  "voiceCatalog": "workshop/characters/其他角色/布丁狗/resources.json",
+  "metadata": "workshop/characters/其他角色/布丁狗/metadata.json",
+  "preview": "workshop/characters/其他角色/布丁狗/cover.png",
+  "coverCostume": 1,
+  "coverSha256": "4b90e79ce0e39f9148bcb6b8576412a9059f125d01da8a6fc9988ea8ff9dafd4",
+  "counts": {
+    "costumes": 1,
+    "voices": 0,
+    "actions": 5,
+    "expressions": 6
+  },
+  "release": {
+    "state": "draft",
+    "workshopId": null,
+    "nativeMenu": "source-controls",
+    "wpkVerification": "archive-verified",
+    "genderTagReview": false,
+    "codeAudit": "passed"
+  }
+}

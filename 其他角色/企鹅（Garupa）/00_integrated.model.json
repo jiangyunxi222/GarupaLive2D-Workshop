@@ -1,0 +1,98 @@
+{
+  "version": "Sample 1.0.0",
+  "model": "assets/9820549ab1ba8e2b3861c9d3.moc",
+  "textures": [
+    "assets/90b696dfeff0aaef935c7dab.png"
+  ],
+  "motions": {
+    "idle": [
+      {
+        "name": "待机",
+        "file": "assets/20d26e9b7810d98b00c2ca80.mtn"
+      }
+    ],
+    "tap": [
+      {
+        "name": "生气01",
+        "file": "assets/da35800827b6a18243e5ac0a.mtn",
+        "priority": 3
+      },
+      {
+        "name": "生气02",
+        "file": "assets/f4795bfda5134b99858ea3cf.mtn",
+        "priority": 3
+      },
+      {
+        "name": "开心01",
+        "file": "assets/90ce613c24ff8bc427bb65f7.mtn",
+        "priority": 3
+      },
+      {
+        "name": "待机01",
+        "file": "assets/20d26e9b7810d98b00c2ca80.mtn",
+        "priority": 3
+      },
+      {
+        "name": "待机02",
+        "file": "assets/9929659960d55bcd5dfab89c.mtn",
+        "priority": 3
+      },
+      {
+        "name": "动作",
+        "file": "assets/33917498b39a19a9eb7ce12f.mtn",
+        "priority": 3
+      },
+      {
+        "name": "难过01",
+        "file": "assets/06d5699577959daf09a5036a.mtn",
+        "priority": 3
+      },
+      {
+        "name": "难过02",
+        "file": "assets/028e18b888e970e355eb7ef1.mtn",
+        "priority": 3
+      },
+      {
+        "name": "动作01",
+        "file": "assets/77522c1dc2bdc327d75d3dbc.mtn",
+        "priority": 3
+      },
+      {
+        "name": "动作02",
+        "file": "assets/1d39caf7d523d7fa1d3351af.mtn",
+        "priority": 3
+      }
+    ],
+    "tap_face": [
+      {
+        "name": "切换表情",
+        "command": "next_exp"
+      }
+    ]
+  },
+  "physics": "assets/e4e52ef83c4b3a2502ca7ae9.physics.json",
+  "expressions": [
+    {
+      "name": "基础表情01",
+      "file": "assets/2ebad66a3fadc46135a260f7.exp.json"
+    }
+  ],
+  "options": {
+    "id": "garupa_4834d9dfeccefa95_0",
+    "tex_fixed": true
+  },
+  "hit_areas": [
+    {
+      "name": "表情",
+      "id": "D_PSD.07",
+      "motion": "tap_face",
+      "order": 30
+    },
+    {
+      "name": "动作",
+      "id": "D_PSD1.00",
+      "motion": "tap",
+      "order": 20
+    }
+  ]
+}

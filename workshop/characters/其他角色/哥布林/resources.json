@@ -1,0 +1,17 @@
+{
+  "costumes": [
+    {
+      "id": 1,
+      "name": "活动 203 · 01",
+      "file": "00_integrated.model.json",
+      "actions": [
+        {
+          "name": "待机01",
+          "file": "assets/f2d841da895c996af08b653b.mtn"
+        }
+      ],
+      "expressions": []
+    }
+  ],
+  "voices": []
+}

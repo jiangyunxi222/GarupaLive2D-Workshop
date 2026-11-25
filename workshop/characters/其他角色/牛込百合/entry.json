@@ -1,0 +1,28 @@
+{
+  "id": "fe8cf620ac3bef35",
+  "name": "牛込百合",
+  "game": "Garupa",
+  "group": "其他角色",
+  "model": "其他角色/牛込百合（Garupa）/00_integrated.model.json",
+  "resourceManifest": "其他角色/牛込百合（Garupa）/manifest.json",
+  "sourceLock": "其他角色/牛込百合（Garupa）/source-lock.json",
+  "voiceCatalog": "workshop/characters/其他角色/牛込百合/resources.json",
+  "metadata": "workshop/characters/其他角色/牛込百合/metadata.json",
+  "preview": "workshop/characters/其他角色/牛込百合/cover.png",
+  "coverCostume": 1,
+  "coverSha256": "910232096092697b90d813e686d00a431d2da2964844ba5fd4add2a00b8ae6d4",
+  "counts": {
+    "costumes": 4,
+    "voices": 0,
+    "actions": 80,
+    "expressions": 4
+  },
+  "release": {
+    "state": "draft",
+    "workshopId": null,
+    "nativeMenu": "source-controls",
+    "wpkVerification": "archive-verified",
+    "genderTagReview": false,
+    "codeAudit": "passed"
+  }
+}

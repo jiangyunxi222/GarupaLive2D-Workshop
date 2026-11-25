@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "source_snapshot": {
+    "snapshot": "snapshots/20261112T052055-7b8b6a25.json"
+  },
+  "costumes": [
+    {
+      "file": "00_integrated.model.json",
+      "folder": "336_event_203_story_01",
+      "provider": "bestdori",
+      "server": "jp"
+    }
+  ],
+  "assets": {
+    "assets/de5aa0760f1eb6fdab29d7e4.moc": [
+      "https://bestdori.com/assets/jp/live2d/chara/336_event_203_story_01_rip/goblin_event203_story01.moc"
+    ],
+    "assets/bb075354708e9baf330c3d7c.png": [
+      "https://bestdori.com/assets/jp/live2d/chara/336_event_203_story_01_rip/texture_00.png"
+    ],
+    "assets/53b30e5094fa65eb4aa61a4e.physics.json": [
+      "https://bestdori.com/assets/jp/live2d/chara/336_event_203_story_01_rip/goblin_event203_story01.physics.json"
+    ],
+    "assets/f2d841da895c996af08b653b.mtn": [
+      "https://bestdori.com/assets/jp/live2d/chara/336_general_rip/idle01.mtn"
+    ]
+  }
+}

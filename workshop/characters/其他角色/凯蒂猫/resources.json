@@ -1,0 +1,58 @@
+{
+  "costumes": [
+    {
+      "id": 1,
+      "name": "活动 312 · 01",
+      "file": "00_integrated.model.json",
+      "actions": [
+        {
+          "name": "待机01",
+          "file": "assets/4b524166c3ceea8b45ef4340.mtn"
+        },
+        {
+          "name": "动作01",
+          "file": "assets/95396c51ae2ea08053f12cf1.mtn"
+        },
+        {
+          "name": "动作02",
+          "file": "assets/a3e6d8eb2640c93f2ddcbc73.mtn"
+        },
+        {
+          "name": "动作03",
+          "file": "assets/eeb3553692918a11f22e46d5.mtn"
+        },
+        {
+          "name": "待机02",
+          "file": "assets/d8263ea3ef5549afdf0a7f65.mtn"
+        }
+      ],
+      "expressions": [
+        {
+          "name": "默认",
+          "file": "assets/25686d389e8e6d716ca28cf7.exp.json"
+        },
+        {
+          "name": "表情01",
+          "file": "assets/25686d389e8e6d716ca28cf7.exp.json"
+        },
+        {
+          "name": "表情02",
+          "file": "assets/485502cedd9605807350dbf7.exp.json"
+        },
+        {
+          "name": "表情03",
+          "file": "assets/04783efcb1f5c4494738485c.exp.json"
+        },
+        {
+          "name": "表情04",
+          "file": "assets/1aed5cb9c42b0a70bde89592.exp.json"
+        },
+        {
+          "name": "表情05",
+          "file": "assets/1266f5237b837b20853eba47.exp.json"
+        }
+      ]
+    }
+  ],
+  "voices": []
+}

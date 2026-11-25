@@ -1,0 +1,28 @@
+{
+  "id": "48677ffa75367d3a",
+  "name": "可洛比",
+  "game": "Garupa",
+  "group": "其他角色",
+  "model": "其他角色/可洛比（Garupa）/00_integrated.model.json",
+  "resourceManifest": "其他角色/可洛比（Garupa）/manifest.json",
+  "sourceLock": "其他角色/可洛比（Garupa）/source-lock.json",
+  "voiceCatalog": "workshop/characters/其他角色/可洛比/resources.json",
+  "metadata": "workshop/characters/其他角色/可洛比/metadata.json",
+  "preview": "workshop/characters/其他角色/可洛比/cover.png",
+  "coverCostume": 1,
+  "coverSha256": "c1fedad6ac4b61aeb8146dee917a625cb1a65d39b4f3cec8250fcf27a5ca26b4",
+  "counts": {
+    "costumes": 1,
+    "voices": 0,
+    "actions": 5,
+    "expressions": 6
+  },
+  "release": {
+    "state": "draft",
+    "workshopId": null,
+    "nativeMenu": "source-controls",
+    "wpkVerification": "archive-verified",
+    "genderTagReview": false,
+    "codeAudit": "passed"
+  }
+}

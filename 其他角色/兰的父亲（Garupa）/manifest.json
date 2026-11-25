@@ -1,0 +1,27 @@
+{
+  "game": "Garupa",
+  "group": "其他角色",
+  "character": "兰的父亲",
+  "entry": "00_integrated.model.json",
+  "files_sha256": {
+    "assets/5c4abb0791d36a329f2f2a38.moc": "5c4abb0791d36a329f2f2a384280b353879211de7b5c287515984bffa40c9dd1",
+    "assets/5cf19dd6f1e7e8b54e3f6526.png": "5cf19dd6f1e7e8b54e3f6526451cc3a92587cd68de0f12f27bee1e3448da4569",
+    "assets/53b30e5094fa65eb4aa61a4e.physics.json": "53b30e5094fa65eb4aa61a4e2965d7eb6ff86c019e13fcd76c8f18f8be7fab88",
+    "assets/4a7ac1f6d434829520a13ab6.mtn": "4a7ac1f6d434829520a13ab6ec6a51d1c2c1dfc8abf2e66c73b1b96f2b0ac209",
+    "assets/973e3e18bfe780238b70b354.mtn": "973e3e18bfe780238b70b354048a40e94351fb21757ed260c85bb063d419ec6d",
+    "assets/f2d841da895c996af08b653b.mtn": "f2d841da895c996af08b653b47fe8092771ba2b7c3cdc63431501b6ca20d80e3",
+    "assets/4df3bf552ea2d2f7e995eb49.mtn": "4df3bf552ea2d2f7e995eb495e59924ec5a9bcf96a36661d1478bbbbdbf94b4e",
+    "assets/1e6c265dfb3ef9f9e3704e72.mtn": "1e6c265dfb3ef9f9e3704e7281831a1faac2dd49d1ba95e0cef215dda8cd3afc",
+    "assets/c6c0015125e83f95183b27c2.mtn": "c6c0015125e83f95183b27c2aa227b59a48ae92ac5d770fc413d1db8df686b8d",
+    "assets/8d096485bc8508663bf264ac.mtn": "8d096485bc8508663bf264acfc99f5982e73d42b96e4f26a8373de5bfd114795",
+    "assets/2be8fdeeb1667a5ac40cbb7f.mtn": "2be8fdeeb1667a5ac40cbb7f1915de371eacd17c911dff82416e83bef3b0badf",
+    "assets/4517b524115a5e13389b27b0.mtn": "4517b524115a5e13389b27b08b748e4ac43cb18e5d660ddd834c571dd38f0cc2",
+    "assets/8b45fadb466ef245c57cf190.mtn": "8b45fadb466ef245c57cf190e5699aba2bc456c9052c6b80b56c81079c34d956",
+    "assets/e890fb36cf4fdc5c1331ab29.mtn": "e890fb36cf4fdc5c1331ab2978c1031acf3bc0796405c1b4a3d1400840dd7494",
+    "assets/926d26e49973c2ca91b797ad.mtn": "926d26e49973c2ca91b797adcb6996003dd0f819050a1a9a010b7fe5bc5fc9d4",
+    "assets/7c3fd6ce1f9b3df57c65585d.mtn": "7c3fd6ce1f9b3df57c65585d540fa9e28f4672d45414475bd163c80302c79d1a",
+    "assets/5a8e0f1ba23c8b248e5a2975.mtn": "5a8e0f1ba23c8b248e5a2975e575b3442475678421b3b54c0705682c41fb3b8e",
+    "assets/8a16f6fbd18fcd34f19a14c3.exp.json": "8a16f6fbd18fcd34f19a14c3cc504fdf571b9238a99e5c53d1082d4abec020f2",
+    "00_integrated.model.json": "df40ea66a6961bb04cebd60ec697fbdb3eac05bdb09aafb5871b97138ebb57a7"
+  }
+}

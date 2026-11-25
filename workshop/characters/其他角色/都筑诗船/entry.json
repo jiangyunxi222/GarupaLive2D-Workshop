@@ -1,0 +1,28 @@
+{
+  "id": "2d415137a735535a",
+  "name": "都筑诗船",
+  "game": "Garupa",
+  "group": "其他角色",
+  "model": "其他角色/都筑诗船（Garupa）/00_integrated.model.json",
+  "resourceManifest": "其他角色/都筑诗船（Garupa）/manifest.json",
+  "sourceLock": "其他角色/都筑诗船（Garupa）/source-lock.json",
+  "voiceCatalog": "workshop/characters/其他角色/都筑诗船/resources.json",
+  "metadata": "workshop/characters/其他角色/都筑诗船/metadata.json",
+  "preview": "workshop/characters/其他角色/都筑诗船/cover.png",
+  "coverCostume": 1,
+  "coverSha256": "06c057aac6c4bec1f26bdca6231f594d073cf8f3a3453949c77db6ceb4f41abe",
+  "counts": {
+    "costumes": 1,
+    "voices": 0,
+    "actions": 24,
+    "expressions": 10
+  },
+  "release": {
+    "state": "draft",
+    "workshopId": null,
+    "nativeMenu": "source-controls",
+    "wpkVerification": "archive-verified",
+    "genderTagReview": false,
+    "codeAudit": "passed"
+  }
+}

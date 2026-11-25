@@ -1,0 +1,234 @@
+{
+  "version": 1,
+  "source_snapshot": {
+    "snapshot": "snapshots/20261112T052055-7b8b6a25.json"
+  },
+  "costumes": [
+    {
+      "file": "00_integrated.model.json",
+      "folder": "225_casual",
+      "provider": "bestdori",
+      "server": "jp"
+    },
+    {
+      "file": "002_costume.model.json",
+      "folder": "225_event_289_story_01",
+      "provider": "bestdori",
+      "server": "jp"
+    }
+  ],
+  "assets": {
+    "assets/751c5be5dce4869e12e28292.moc": [
+      "https://bestdori.com/assets/jp/live2d/chara/225_casual_rip/ririko_casual.moc"
+    ],
+    "assets/cb58a8eac8aed01b5afded84.png": [
+      "https://bestdori.com/assets/jp/live2d/chara/225_general_rip/texture_00.png",
+      "https://bestdori.com/assets/jp/live2d/chara/225_general_rip/texture_00.png"
+    ],
+    "assets/8bdac7582dd10a18642d4661.png": [
+      "https://bestdori.com/assets/jp/live2d/chara/225_casual_rip/texture_01.png"
+    ],
+    "assets/25d16a026c8e35b714831375.physics.json": [
+      "https://bestdori.com/assets/jp/live2d/chara/225_casual_rip/ririko_casual.physics.json",
+      "https://bestdori.com/assets/jp/live2d/chara/225_event_289_story_01_rip/ririko_casual.physics.json"
+    ],
+    "assets/3f143599bb8b33b1833264e5.mtn": [
+      "https://bestdori.com/assets/jp/live2d/chara/225_general_rip/angry01.mtn",
+      "https://bestdori.com/assets/jp/live2d/chara/225_general_rip/angry01.mtn"
+    ],
+    "assets/bb5d94d876d99fbb236b7e7e.mtn": [
+      "https://bestdori.com/assets/jp/live2d/chara/225_general_rip/bye01.mtn",
+      "https://bestdori.com/assets/jp/live2d/chara/225_general_rip/bye01.mtn"
+    ],
+    "assets/ac707171e19023bfca9a254a.mtn": [
+      "https://bestdori.com/assets/jp/live2d/chara/225_general_rip/cry01.mtn",
+      "https://bestdori.com/assets/jp/live2d/chara/225_general_rip/cry01.mtn"
+    ],
+    "assets/69acdc547e052f15d75af3c2.mtn": [
+      "https://bestdori.com/assets/jp/live2d/chara/225_general_rip/idle01.mtn",
+      "https://bestdori.com/assets/jp/live2d/chara/225_general_rip/idle01.mtn"
+    ],
+    "assets/8ca2ef3b4f5704ef01e57f40.mtn": [
+      "https://bestdori.com/assets/jp/live2d/chara/225_general_rip/kime01.mtn",
+      "https://bestdori.com/assets/jp/live2d/chara/225_general_rip/kime01.mtn"
+    ],
+    "assets/8140b350bdd05e66754dcd68.mtn": [
+      "https://bestdori.com/assets/jp/live2d/chara/225_general_rip/nf01.mtn",
+      "https://bestdori.com/assets/jp/live2d/chara/225_general_rip/nf01.mtn"
+    ],
+    "assets/12d997b692af11ef91f8c4fa.mtn": [
+      "https://bestdori.com/assets/jp/live2d/chara/225_general_rip/nf02.mtn",
+      "https://bestdori.com/assets/jp/live2d/chara/225_general_rip/nf02.mtn"
+    ],
+    "assets/5fc1c53f65b4d8da0501a409.mtn": [
+      "https://bestdori.com/assets/jp/live2d/chara/225_general_rip/nf03.mtn",
+      "https://bestdori.com/assets/jp/live2d/chara/225_general_rip/nf03.mtn"
+    ],
+    "assets/696473751a59c90a5e54bfb7.mtn": [
+      "https://bestdori.com/assets/jp/live2d/chara/225_general_rip/nf04.mtn",
+      "https://bestdori.com/assets/jp/live2d/chara/225_general_rip/nf04.mtn"
+    ],
+    "assets/66ddc6219550583541e4d5b3.mtn": [
+      "https://bestdori.com/assets/jp/live2d/chara/225_general_rip/nf05.mtn",
+      "https://bestdori.com/assets/jp/live2d/chara/225_general_rip/nf05.mtn"
+    ],
+    "assets/e3d2d8f7c0e60e4d0a0bc738.mtn": [
+      "https://bestdori.com/assets/jp/live2d/chara/225_general_rip/nf_left01.mtn",
+      "https://bestdori.com/assets/jp/live2d/chara/225_general_rip/nf_left01.mtn"
+    ],
+    "assets/fe899e7fdf0ccf401cc8c13f.mtn": [
+      "https://bestdori.com/assets/jp/live2d/chara/225_general_rip/nf_right01.mtn",
+      "https://bestdori.com/assets/jp/live2d/chara/225_general_rip/nf_right01.mtn"
+    ],
+    "assets/3767bed7a3ba330ab1070ca3.mtn": [
+      "https://bestdori.com/assets/jp/live2d/chara/225_general_rip/nnf01.mtn",
+      "https://bestdori.com/assets/jp/live2d/chara/225_general_rip/nnf01.mtn"
+    ],
+    "assets/0aa0129c3ee14bcaaabd1d43.mtn": [
+      "https://bestdori.com/assets/jp/live2d/chara/225_general_rip/nnf02.mtn",
+      "https://bestdori.com/assets/jp/live2d/chara/225_general_rip/nnf02.mtn"
+    ],
+    "assets/441dd100cae265c27a454792.mtn": [
+      "https://bestdori.com/assets/jp/live2d/chara/225_general_rip/nnf03.mtn",
+      "https://bestdori.com/assets/jp/live2d/chara/225_general_rip/nnf03.mtn"
+    ],
+    "assets/78bf81143eec527030818b41.mtn": [
+      "https://bestdori.com/assets/jp/live2d/chara/225_general_rip/nnf04.mtn",
+      "https://bestdori.com/assets/jp/live2d/chara/225_general_rip/nnf04.mtn"
+    ],
+    "assets/b97da12d61b6e98673655102.mtn": [
+      "https://bestdori.com/assets/jp/live2d/chara/225_general_rip/nnf05.mtn",
+      "https://bestdori.com/assets/jp/live2d/chara/225_general_rip/nnf05.mtn"
+    ],
+    "assets/b38fa3eb1ba156d99da40a45.mtn": [
+      "https://bestdori.com/assets/jp/live2d/chara/225_general_rip/nnf_left01.mtn",
+      "https://bestdori.com/assets/jp/live2d/chara/225_general_rip/nnf_left01.mtn"
+    ],
+    "assets/fe88d1bb3ab47df715826813.mtn": [
+      "https://bestdori.com/assets/jp/live2d/chara/225_general_rip/nnf_right01.mtn",
+      "https://bestdori.com/assets/jp/live2d/chara/225_general_rip/nnf_right01.mtn"
+    ],
+    "assets/51d25e089ea1bbd5ed2645c5.mtn": [
+      "https://bestdori.com/assets/jp/live2d/chara/225_general_rip/sad01.mtn",
+      "https://bestdori.com/assets/jp/live2d/chara/225_general_rip/sad01.mtn"
+    ],
+    "assets/a9d6de8c7f3fd9c95e947bd3.mtn": [
+      "https://bestdori.com/assets/jp/live2d/chara/225_general_rip/serious01.mtn",
+      "https://bestdori.com/assets/jp/live2d/chara/225_general_rip/serious01.mtn"
+    ],
+    "assets/c803ffdecd8ebe7ecdca5257.mtn": [
+      "https://bestdori.com/assets/jp/live2d/chara/225_general_rip/shame01.mtn",
+      "https://bestdori.com/assets/jp/live2d/chara/225_general_rip/shame01.mtn"
+    ],
+    "assets/41c7b2bfd3e34eb33380b761.mtn": [
+      "https://bestdori.com/assets/jp/live2d/chara/225_general_rip/smile01.mtn",
+      "https://bestdori.com/assets/jp/live2d/chara/225_general_rip/smile01.mtn"
+    ],
+    "assets/14d054f159c576e48d4d7206.mtn": [
+      "https://bestdori.com/assets/jp/live2d/chara/225_general_rip/smile02.mtn",
+      "https://bestdori.com/assets/jp/live2d/chara/225_general_rip/smile02.mtn"
+    ],
+    "assets/6132f0022d7109c1660b24ce.mtn": [
+      "https://bestdori.com/assets/jp/live2d/chara/225_general_rip/smile03.mtn",
+      "https://bestdori.com/assets/jp/live2d/chara/225_general_rip/smile03.mtn"
+    ],
+    "assets/01f001a95fab53e62a008df3.mtn": [
+      "https://bestdori.com/assets/jp/live2d/chara/225_general_rip/surprised01.mtn",
+      "https://bestdori.com/assets/jp/live2d/chara/225_general_rip/surprised01.mtn"
+    ],
+    "assets/db226b41ce0d6dcaa2fb2773.mtn": [
+      "https://bestdori.com/assets/jp/live2d/chara/225_general_rip/thinking01.mtn",
+      "https://bestdori.com/assets/jp/live2d/chara/225_general_rip/thinking01.mtn"
+    ],
+    "assets/67b3dfea0b8ff23a8281ca2a.exp.json": [
+      "https://bestdori.com/assets/jp/live2d/chara/225_general_rip/angry01.exp.json",
+      "https://bestdori.com/assets/jp/live2d/chara/225_general_rip/ririko_angry01.exp.json",
+      "https://bestdori.com/assets/jp/live2d/chara/225_general_rip/angry01.exp.json",
+      "https://bestdori.com/assets/jp/live2d/chara/225_general_rip/ririko_angry01.exp.json"
+    ],
+    "assets/6ff6115d71334b4383c06406.exp.json": [
+      "https://bestdori.com/assets/jp/live2d/chara/225_general_rip/bye01.exp.json",
+      "https://bestdori.com/assets/jp/live2d/chara/225_general_rip/ririko_bye01.exp.json",
+      "https://bestdori.com/assets/jp/live2d/chara/225_general_rip/bye01.exp.json",
+      "https://bestdori.com/assets/jp/live2d/chara/225_general_rip/ririko_bye01.exp.json"
+    ],
+    "assets/fd39c10b428b5573e81c9683.exp.json": [
+      "https://bestdori.com/assets/jp/live2d/chara/225_general_rip/cry01.exp.json",
+      "https://bestdori.com/assets/jp/live2d/chara/225_general_rip/ririko_cry01.exp.json",
+      "https://bestdori.com/assets/jp/live2d/chara/225_general_rip/cry01.exp.json",
+      "https://bestdori.com/assets/jp/live2d/chara/225_general_rip/ririko_cry01.exp.json"
+    ],
+    "assets/1b39f14c7f58c8f520974026.exp.json": [
+      "https://bestdori.com/assets/jp/live2d/chara/225_general_rip/default.exp.json",
+      "https://bestdori.com/assets/jp/live2d/chara/225_general_rip/ririko_default.exp.json",
+      "https://bestdori.com/assets/jp/live2d/chara/225_general_rip/default.exp.json",
+      "https://bestdori.com/assets/jp/live2d/chara/225_general_rip/ririko_default.exp.json"
+    ],
+    "assets/c251c5cbed6747ee92cb5752.exp.json": [
+      "https://bestdori.com/assets/jp/live2d/chara/225_general_rip/idle01.exp.json",
+      "https://bestdori.com/assets/jp/live2d/chara/225_general_rip/ririko_idle01.exp.json",
+      "https://bestdori.com/assets/jp/live2d/chara/225_general_rip/idle01.exp.json",
+      "https://bestdori.com/assets/jp/live2d/chara/225_general_rip/ririko_idle01.exp.json"
+    ],
+    "assets/47d8a95880473f9ea65939d3.exp.json": [
+      "https://bestdori.com/assets/jp/live2d/chara/225_general_rip/kime01.exp.json",
+      "https://bestdori.com/assets/jp/live2d/chara/225_general_rip/ririko_kime01.exp.json",
+      "https://bestdori.com/assets/jp/live2d/chara/225_general_rip/kime01.exp.json",
+      "https://bestdori.com/assets/jp/live2d/chara/225_general_rip/ririko_kime01.exp.json"
+    ],
+    "assets/d07115b3c5b5d0a88b528609.exp.json": [
+      "https://bestdori.com/assets/jp/live2d/chara/225_general_rip/ririko_sad01.exp.json",
+      "https://bestdori.com/assets/jp/live2d/chara/225_general_rip/sad01.exp.json",
+      "https://bestdori.com/assets/jp/live2d/chara/225_general_rip/ririko_sad01.exp.json",
+      "https://bestdori.com/assets/jp/live2d/chara/225_general_rip/sad01.exp.json"
+    ],
+    "assets/0b2e0de52458a9db2cb83cee.exp.json": [
+      "https://bestdori.com/assets/jp/live2d/chara/225_general_rip/ririko_serious01.exp.json",
+      "https://bestdori.com/assets/jp/live2d/chara/225_general_rip/serious01.exp.json",
+      "https://bestdori.com/assets/jp/live2d/chara/225_general_rip/ririko_serious01.exp.json",
+      "https://bestdori.com/assets/jp/live2d/chara/225_general_rip/serious01.exp.json"
+    ],
+    "assets/9455b494298ed558a8ea349a.exp.json": [
+      "https://bestdori.com/assets/jp/live2d/chara/225_general_rip/ririko_shame01.exp.json",
+      "https://bestdori.com/assets/jp/live2d/chara/225_general_rip/shame01.exp.json",
+      "https://bestdori.com/assets/jp/live2d/chara/225_general_rip/ririko_shame01.exp.json",
+      "https://bestdori.com/assets/jp/live2d/chara/225_general_rip/shame01.exp.json"
+    ],
+    "assets/70b3c7031b0a730ba5218dca.exp.json": [
+      "https://bestdori.com/assets/jp/live2d/chara/225_general_rip/ririko_smile01.exp.json",
+      "https://bestdori.com/assets/jp/live2d/chara/225_general_rip/smile01.exp.json",
+      "https://bestdori.com/assets/jp/live2d/chara/225_general_rip/ririko_smile01.exp.json",
+      "https://bestdori.com/assets/jp/live2d/chara/225_general_rip/smile01.exp.json"
+    ],
+    "assets/c027371504998bc783a56e1b.exp.json": [
+      "https://bestdori.com/assets/jp/live2d/chara/225_general_rip/ririko_smile02.exp.json",
+      "https://bestdori.com/assets/jp/live2d/chara/225_general_rip/smile02.exp.json",
+      "https://bestdori.com/assets/jp/live2d/chara/225_general_rip/ririko_smile02.exp.json",
+      "https://bestdori.com/assets/jp/live2d/chara/225_general_rip/smile02.exp.json"
+    ],
+    "assets/9cafb14d4f7ec3d5c874119f.exp.json": [
+      "https://bestdori.com/assets/jp/live2d/chara/225_general_rip/ririko_smile03.exp.json",
+      "https://bestdori.com/assets/jp/live2d/chara/225_general_rip/smile03.exp.json",
+      "https://bestdori.com/assets/jp/live2d/chara/225_general_rip/ririko_smile03.exp.json",
+      "https://bestdori.com/assets/jp/live2d/chara/225_general_rip/smile03.exp.json"
+    ],
+    "assets/39f743989fed8d98b422bb81.exp.json": [
+      "https://bestdori.com/assets/jp/live2d/chara/225_general_rip/ririko_surprised01.exp.json",
+      "https://bestdori.com/assets/jp/live2d/chara/225_general_rip/surprised01.exp.json",
+      "https://bestdori.com/assets/jp/live2d/chara/225_general_rip/ririko_surprised01.exp.json",
+      "https://bestdori.com/assets/jp/live2d/chara/225_general_rip/surprised01.exp.json"
+    ],
+    "assets/2e527ece6969d3350652eb37.exp.json": [
+      "https://bestdori.com/assets/jp/live2d/chara/225_general_rip/ririko_thinking01.exp.json",
+      "https://bestdori.com/assets/jp/live2d/chara/225_general_rip/thinking01.exp.json",
+      "https://bestdori.com/assets/jp/live2d/chara/225_general_rip/ririko_thinking01.exp.json",
+      "https://bestdori.com/assets/jp/live2d/chara/225_general_rip/thinking01.exp.json"
+    ],
+    "assets/04c07667e241cbc58d13f82a.moc": [
+      "https://bestdori.com/assets/jp/live2d/chara/225_event_289_story_01_rip/ririko_staffT.moc"
+    ],
+    "assets/863f4b450efff974e475332e.png": [
+      "https://bestdori.com/assets/jp/live2d/chara/225_event_289_story_01_rip/texture_01.png"
+    ]
+  }
+}

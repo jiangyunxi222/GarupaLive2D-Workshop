@@ -1,0 +1,22 @@
+{
+  "game": "Garupa",
+  "group": "其他角色",
+  "character": "暹罗猫小豆泥",
+  "entry": "00_integrated.model.json",
+  "files_sha256": {
+    "assets/77da906c6cf99f9b3c13b9f1.moc": "77da906c6cf99f9b3c13b9f19cb0a3cd7c150262deb49f7ebbc9f2b89730d16a",
+    "assets/ec7aea0e3bb65be8fdee2a14.png": "ec7aea0e3bb65be8fdee2a14eab2f90923ec82bd5cf6f8c806220eb4e61c9e08",
+    "assets/926a670eba68fff2ebb56bde.physics.json": "926a670eba68fff2ebb56bde641b3052be637077b9f41e7ec61c940025ec75e0",
+    "assets/ed71824fbb537b1f2d72abcf.mtn": "ed71824fbb537b1f2d72abcfa3347e7e77c51cedb544aeb9c92200cb8936328c",
+    "assets/7acb52306e2a71c5f5a79fbd.mtn": "7acb52306e2a71c5f5a79fbdb6b2d2f5d02454001ec6bed5e663cecff43e1c0f",
+    "assets/8d63e04b36e971c1e75fe2d9.mtn": "8d63e04b36e971c1e75fe2d9926c9808f069725e54e189c7a449d8cda2e081bd",
+    "assets/066a921489e7166105e76cba.mtn": "066a921489e7166105e76cbad461fdee16f3e8ea9f0cc48f50dbec74083666ed",
+    "assets/fb4ed6976d165c5b54b3be5d.mtn": "fb4ed6976d165c5b54b3be5d7440f54e58af775621001254be7ba5f1ffc43cbb",
+    "assets/2860892ea84bbe505cd46abf.mtn": "2860892ea84bbe505cd46abf92d62aaf81f6ce99d608c2a7fb4a5f4e62200ad2",
+    "assets/1b39f14c7f58c8f520974026.exp.json": "1b39f14c7f58c8f5209740265730d75b4b58de64adc905e761ff31a58beb369c",
+    "assets/9337ef9b4278dc4bece44d2c.exp.json": "9337ef9b4278dc4bece44d2c920c77a35655f54542d807e5e9a980a08321b6dc",
+    "assets/36fc222b16847f814f658a55.exp.json": "36fc222b16847f814f658a5501651465b19b4d65f4e50c61fafefa8d2f2e6240",
+    "assets/f244ce9a1d1e44a57cff2af6.exp.json": "f244ce9a1d1e44a57cff2af68f17adc3e2263354b1d8a2e9fe445db85726e7ee",
+    "00_integrated.model.json": "13b74330c3a77d4c51a96dcbede2a020ecf6133409fafa1c03eba00ddb73751f"
+  }
+}

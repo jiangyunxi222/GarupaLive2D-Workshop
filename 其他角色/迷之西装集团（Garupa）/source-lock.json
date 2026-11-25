@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "source_snapshot": {
+    "snapshot": "snapshots/20261112T052055-7b8b6a25.json"
+  },
+  "costumes": [
+    {
+      "file": "00_integrated.model.json",
+      "folder": "211_default",
+      "provider": "bestdori",
+      "server": "jp"
+    }
+  ],
+  "assets": {
+    "assets/71d3df4b23afdeb213e439bb.moc": [
+      "https://bestdori.com/assets/jp/live2d/chara/211_default_rip/bodyguard.moc"
+    ],
+    "assets/25f8b861a000f7a532de5ea9.png": [
+      "https://bestdori.com/assets/jp/live2d/chara/211_default_rip/texture_00.png"
+    ],
+    "assets/53b30e5094fa65eb4aa61a4e.physics.json": [
+      "https://bestdori.com/assets/jp/live2d/chara/211_default_rip/bodyguard.physics.json"
+    ],
+    "assets/f2d841da895c996af08b653b.mtn": [
+      "https://bestdori.com/assets/jp/live2d/chara/211_general_rip/idle01.mtn"
+    ],
+    "assets/8a16f6fbd18fcd34f19a14c3.exp.json": [
+      "https://bestdori.com/assets/jp/live2d/chara/025_general_rip/rinko_default.exp.json"
+    ]
+  }
+}

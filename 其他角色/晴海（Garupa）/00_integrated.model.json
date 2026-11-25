@@ -1,0 +1,142 @@
+{
+  "version": "Sample 1.0.0",
+  "model": "assets/062dfafe71d8e39462d1f379.moc",
+  "textures": [
+    "assets/0c4bdc5ab5fc01739fa8a5e2.png"
+  ],
+  "motions": {
+    "idle": [
+      {
+        "name": "待机",
+        "file": "assets/578bb787c36543f1a6a6c5b0.mtn"
+      }
+    ],
+    "tap": [
+      {
+        "name": "生气01",
+        "file": "assets/992d660bbc2de8b1b2153831.mtn",
+        "priority": 3
+      },
+      {
+        "name": "哭泣01",
+        "file": "assets/8dd061b3cc1702dd8641a1ca.mtn",
+        "priority": 3
+      },
+      {
+        "name": "思索01",
+        "file": "assets/b42ee82df60c87c427e324a0.mtn",
+        "priority": 3
+      },
+      {
+        "name": "握拳打气01",
+        "file": "assets/3ada226046a13fdc50045dc2.mtn",
+        "priority": 3
+      },
+      {
+        "name": "待机01",
+        "file": "assets/578bb787c36543f1a6a6c5b0.mtn",
+        "priority": 3
+      },
+      {
+        "name": "常规动作01",
+        "file": "assets/760351974be2bfbf731b9384.mtn",
+        "priority": 3
+      },
+      {
+        "name": "常规动作02",
+        "file": "assets/376eb24737e56a0072d2900f.mtn",
+        "priority": 3
+      },
+      {
+        "name": "常规动作03",
+        "file": "assets/dba23e2e5458ea986175b3e4.mtn",
+        "priority": 3
+      },
+      {
+        "name": "常规动作04",
+        "file": "assets/08cc6c64b843d5a29b328828.mtn",
+        "priority": 3
+      },
+      {
+        "name": "常规动作05",
+        "file": "assets/c6d6647244352184c22aa933.mtn",
+        "priority": 3
+      },
+      {
+        "name": "常规动作01（左向）",
+        "file": "assets/61a4785a3abb761e671a3b8d.mtn",
+        "priority": 3
+      },
+      {
+        "name": "常规动作01（右向）",
+        "file": "assets/c323b3f68507d1cb4f562191.mtn",
+        "priority": 3
+      },
+      {
+        "name": "点头01",
+        "file": "assets/4383921442597308411253d6.mtn",
+        "priority": 3
+      },
+      {
+        "name": "难过01",
+        "file": "assets/90075d349a2e7ea9a7ad28c2.mtn",
+        "priority": 3
+      },
+      {
+        "name": "微笑01",
+        "file": "assets/bcb727c344ba026d1dd742e8.mtn",
+        "priority": 3
+      },
+      {
+        "name": "微笑02",
+        "file": "assets/80b99ae70ff08def281d9168.mtn",
+        "priority": 3
+      },
+      {
+        "name": "微笑03",
+        "file": "assets/0d92d0969d16c4fe68373191.mtn",
+        "priority": 3
+      },
+      {
+        "name": "惊讶01",
+        "file": "assets/1bcedeccc3cff9bef583e686.mtn",
+        "priority": 3
+      },
+      {
+        "name": "说话01",
+        "file": "assets/421ef6ea52e51409c5d27060.mtn",
+        "priority": 3
+      },
+      {
+        "name": "思考01",
+        "file": "assets/959fa5beabd68d3fcb46c9ca.mtn",
+        "priority": 3
+      }
+    ],
+    "tap_costume": [
+      {
+        "name": "换装",
+        "command": "change_model 002_costume.model.json"
+      }
+    ]
+  },
+  "physics": "assets/b061c906c53e7c4e902dd734.physics.json",
+  "options": {
+    "id": "garupa_fcfb8bff022bdb7b_0",
+    "tex_fixed": true
+  },
+  "hit_areas": [
+    {
+      "name": "动作",
+      "id": "D_PSD.09",
+      "motion": "tap",
+      "order": 20
+    },
+    {
+      "name": "换装",
+      "id": "D_PSD.08",
+      "motion": "tap_costume",
+      "order": 10
+    }
+  ]
+}

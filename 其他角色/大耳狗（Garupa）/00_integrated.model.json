@@ -1,0 +1,97 @@
+{
+  "version": "Sample 1.0.0",
+  "model": "assets/10922c8615a0bb8bfb058f04.moc",
+  "textures": [
+    "assets/1b28971119fc0d4021ea2928.png"
+  ],
+  "motions": {
+    "idle": [
+      {
+        "name": "待机",
+        "file": "assets/c8ab73d36d804870d639298a.mtn"
+      }
+    ],
+    "tap": [
+      {
+        "name": "待机01",
+        "file": "assets/c8ab73d36d804870d639298a.mtn",
+        "priority": 3
+      },
+      {
+        "name": "待机02",
+        "file": "assets/4e0c003f4a7bf98ccbff8dce.mtn",
+        "priority": 3
+      },
+      {
+        "name": "动作01",
+        "file": "assets/d67813d492525c5df813bf6b.mtn",
+        "priority": 3
+      },
+      {
+        "name": "动作02",
+        "file": "assets/a7d8d81d01caacc1a9cea9a2.mtn",
+        "priority": 3
+      },
+      {
+        "name": "动作03",
+        "file": "assets/257eab53f9a85c3a8c4e115e.mtn",
+        "priority": 3
+      }
+    ],
+    "tap_face": [
+      {
+        "name": "切换表情",
+        "command": "next_exp"
+      }
+    ]
+  },
+  "physics": "assets/926a670eba68fff2ebb56bde.physics.json",
+  "expressions": [
+    {
+      "name": "默认",
+      "file": "assets/25686d389e8e6d716ca28cf7.exp.json"
+    },
+    {
+      "name": "表情01",
+      "file": "assets/25686d389e8e6d716ca28cf7.exp.json"
+    },
+    {
+      "name": "表情02",
+      "file": "assets/485502cedd9605807350dbf7.exp.json"
+    },
+    {
+      "name": "表情03",
+      "file": "assets/04783efcb1f5c4494738485c.exp.json"
+    },
+    {
+      "name": "表情04",
+      "file": "assets/1aed5cb9c42b0a70bde89592.exp.json"
+    },
+    {
+      "name": "表情05",
+      "file": "assets/1266f5237b837b20853eba47.exp.json"
+    },
+    {
+      "name": "表情06",
+      "file": "assets/7739a5b459c398fb1ef633b3.exp.json"
+    }
+  ],
+  "options": {
+    "id": "garupa_43065ec324cce48a_0",
+    "tex_fixed": true
+  },
+  "hit_areas": [
+    {
+      "name": "表情",
+      "id": "D_PSD.86",
+      "motion": "tap_face",
+      "order": 30
+    },
+    {
+      "name": "动作",
+      "id": "D_PSD.38",
+      "motion": "tap",
+      "order": 20
+    }
+  ]
+}
